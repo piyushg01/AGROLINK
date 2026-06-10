@@ -1,0 +1,52 @@
+version: '3.8'
+
+services:
+  mongodb:
+    image: mongo:latest
+    container_name: agrolink_db
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+    networks:
+      - agrolink_net
+
+  backend:
+    build: ./backend
+    container_name: agrolink_backend
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+      - MONGO_URI=mongodb://mongodb:27017/agrolink
+      - JWT_SECRET=agrolink_production_secure_secret_999
+    depends_on:
+      - mongodb
+    networks:
+      - agrolink_net
+
+  ai_microservice:
+    build: ./ai_microservice
+    container_name: agrolink_ai
+    ports:
+      - "5000:5000"
+    networks:
+      - agrolink_net
+
+  frontend:
+    build: ./frontend
+    container_name: agrolink_frontend
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
+      - ai_microservice
+    networks:
+      - agrolink_net
+
+volumes:
+  mongo_data:
+
+networks:
+  agrolink_net:
+    driver: bridge

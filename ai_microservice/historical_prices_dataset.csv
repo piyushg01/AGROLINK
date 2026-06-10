@@ -1,0 +1,1801 @@
+date,crop,location,price
+2026-04-06,Wheat,Maharashtra,23.24
+2026-04-06,Wheat,Punjab,21.97
+2026-04-06,Wheat,Gujarat,22.44
+2026-04-06,Wheat,Uttar Pradesh,21.28
+2026-04-06,Wheat,Madhya Pradesh,21.14
+2026-04-06,Rice,Maharashtra,68.43
+2026-04-06,Rice,Punjab,66.69
+2026-04-06,Rice,Gujarat,66.54
+2026-04-06,Rice,Uttar Pradesh,63.62
+2026-04-06,Rice,Madhya Pradesh,61.28
+2026-04-06,Tomato,Maharashtra,18.62
+2026-04-06,Tomato,Punjab,18.37
+2026-04-06,Tomato,Gujarat,18.07
+2026-04-06,Tomato,Uttar Pradesh,17.34
+2026-04-06,Tomato,Madhya Pradesh,17.25
+2026-04-06,Potato,Maharashtra,15.79
+2026-04-06,Potato,Punjab,15.02
+2026-04-06,Potato,Gujarat,15.54
+2026-04-06,Potato,Uttar Pradesh,15.01
+2026-04-06,Potato,Madhya Pradesh,13.76
+2026-04-06,Cotton,Maharashtra,63.31
+2026-04-06,Cotton,Punjab,61.4
+2026-04-06,Cotton,Gujarat,61.64
+2026-04-06,Cotton,Uttar Pradesh,58.46
+2026-04-06,Cotton,Madhya Pradesh,57.46
+2026-04-06,Soybean,Maharashtra,43.94
+2026-04-06,Soybean,Punjab,42.43
+2026-04-06,Soybean,Gujarat,42.86
+2026-04-06,Soybean,Uttar Pradesh,41.51
+2026-04-06,Soybean,Madhya Pradesh,40.0
+2026-04-07,Wheat,Maharashtra,23.43
+2026-04-07,Wheat,Punjab,22.69
+2026-04-07,Wheat,Gujarat,22.72
+2026-04-07,Wheat,Uttar Pradesh,22.05
+2026-04-07,Wheat,Madhya Pradesh,20.8
+2026-04-07,Rice,Maharashtra,68.35
+2026-04-07,Rice,Punjab,66.68
+2026-04-07,Rice,Gujarat,67.12
+2026-04-07,Rice,Uttar Pradesh,64.11
+2026-04-07,Rice,Madhya Pradesh,61.87
+2026-04-07,Tomato,Maharashtra,19.06
+2026-04-07,Tomato,Punjab,17.87
+2026-04-07,Tomato,Gujarat,18.23
+2026-04-07,Tomato,Uttar Pradesh,17.39
+2026-04-07,Tomato,Madhya Pradesh,16.64
+2026-04-07,Potato,Maharashtra,15.49
+2026-04-07,Potato,Punjab,14.91
+2026-04-07,Potato,Gujarat,15.24
+2026-04-07,Potato,Uttar Pradesh,14.85
+2026-04-07,Potato,Madhya Pradesh,14.12
+2026-04-07,Cotton,Maharashtra,62.95
+2026-04-07,Cotton,Punjab,60.99
+2026-04-07,Cotton,Gujarat,61.65
+2026-04-07,Cotton,Uttar Pradesh,59.32
+2026-04-07,Cotton,Madhya Pradesh,57.22
+2026-04-07,Soybean,Maharashtra,44.2
+2026-04-07,Soybean,Punjab,42.5
+2026-04-07,Soybean,Gujarat,43.48
+2026-04-07,Soybean,Uttar Pradesh,40.81
+2026-04-07,Soybean,Madhya Pradesh,39.77
+2026-04-08,Wheat,Maharashtra,23.63
+2026-04-08,Wheat,Punjab,22.62
+2026-04-08,Wheat,Gujarat,22.76
+2026-04-08,Wheat,Uttar Pradesh,21.78
+2026-04-08,Wheat,Madhya Pradesh,21.28
+2026-04-08,Rice,Maharashtra,68.63
+2026-04-08,Rice,Punjab,66.13
+2026-04-08,Rice,Gujarat,66.59
+2026-04-08,Rice,Uttar Pradesh,63.61
+2026-04-08,Rice,Madhya Pradesh,61.61
+2026-04-08,Tomato,Maharashtra,18.53
+2026-04-08,Tomato,Punjab,18.72
+2026-04-08,Tomato,Gujarat,18.83
+2026-04-08,Tomato,Uttar Pradesh,17.38
+2026-04-08,Tomato,Madhya Pradesh,17.18
+2026-04-08,Potato,Maharashtra,15.67
+2026-04-08,Potato,Punjab,15.73
+2026-04-08,Potato,Gujarat,15.43
+2026-04-08,Potato,Uttar Pradesh,14.48
+2026-04-08,Potato,Madhya Pradesh,14.02
+2026-04-08,Cotton,Maharashtra,63.23
+2026-04-08,Cotton,Punjab,61.13
+2026-04-08,Cotton,Gujarat,62.05
+2026-04-08,Cotton,Uttar Pradesh,59.35
+2026-04-08,Cotton,Madhya Pradesh,57.05
+2026-04-08,Soybean,Maharashtra,43.8
+2026-04-08,Soybean,Punjab,43.32
+2026-04-08,Soybean,Gujarat,43.25
+2026-04-08,Soybean,Uttar Pradesh,40.73
+2026-04-08,Soybean,Madhya Pradesh,39.43
+2026-04-09,Wheat,Maharashtra,22.77
+2026-04-09,Wheat,Punjab,22.63
+2026-04-09,Wheat,Gujarat,23.01
+2026-04-09,Wheat,Uttar Pradesh,21.54
+2026-04-09,Wheat,Madhya Pradesh,20.52
+2026-04-09,Rice,Maharashtra,68.29
+2026-04-09,Rice,Punjab,66.95
+2026-04-09,Rice,Gujarat,67.13
+2026-04-09,Rice,Uttar Pradesh,64.32
+2026-04-09,Rice,Madhya Pradesh,62.25
+2026-04-09,Tomato,Maharashtra,18.29
+2026-04-09,Tomato,Punjab,18.46
+2026-04-09,Tomato,Gujarat,18.6
+2026-04-09,Tomato,Uttar Pradesh,17.56
+2026-04-09,Tomato,Madhya Pradesh,16.75
+2026-04-09,Potato,Maharashtra,15.92
+2026-04-09,Potato,Punjab,14.94
+2026-04-09,Potato,Gujarat,15.42
+2026-04-09,Potato,Uttar Pradesh,14.68
+2026-04-09,Potato,Madhya Pradesh,14.73
+2026-04-09,Cotton,Maharashtra,63.63
+2026-04-09,Cotton,Punjab,61.21
+2026-04-09,Cotton,Gujarat,62.05
+2026-04-09,Cotton,Uttar Pradesh,58.71
+2026-04-09,Cotton,Madhya Pradesh,57.64
+2026-04-09,Soybean,Maharashtra,44.44
+2026-04-09,Soybean,Punjab,42.61
+2026-04-09,Soybean,Gujarat,43.37
+2026-04-09,Soybean,Uttar Pradesh,41.24
+2026-04-09,Soybean,Madhya Pradesh,39.52
+2026-04-10,Wheat,Maharashtra,23.45
+2026-04-10,Wheat,Punjab,22.56
+2026-04-10,Wheat,Gujarat,23.02
+2026-04-10,Wheat,Uttar Pradesh,21.67
+2026-04-10,Wheat,Madhya Pradesh,20.48
+2026-04-10,Rice,Maharashtra,68.28
+2026-04-10,Rice,Punjab,66.02
+2026-04-10,Rice,Gujarat,67.59
+2026-04-10,Rice,Uttar Pradesh,64.27
+2026-04-10,Rice,Madhya Pradesh,62.27
+2026-04-10,Tomato,Maharashtra,18.54
+2026-04-10,Tomato,Punjab,17.75
+2026-04-10,Tomato,Gujarat,18.75
+2026-04-10,Tomato,Uttar Pradesh,17.93
+2026-04-10,Tomato,Madhya Pradesh,16.53
+2026-04-10,Potato,Maharashtra,15.78
+2026-04-10,Potato,Punjab,14.91
+2026-04-10,Potato,Gujarat,15.75
+2026-04-10,Potato,Uttar Pradesh,15.01
+2026-04-10,Potato,Madhya Pradesh,13.92
+2026-04-10,Cotton,Maharashtra,63.31
+2026-04-10,Cotton,Punjab,61.58
+2026-04-10,Cotton,Gujarat,61.89
+2026-04-10,Cotton,Uttar Pradesh,59.49
+2026-04-10,Cotton,Madhya Pradesh,57.23
+2026-04-10,Soybean,Maharashtra,43.77
+2026-04-10,Soybean,Punjab,42.84
+2026-04-10,Soybean,Gujarat,43.45
+2026-04-10,Soybean,Uttar Pradesh,40.82
+2026-04-10,Soybean,Madhya Pradesh,39.67
+2026-04-11,Wheat,Maharashtra,23.7
+2026-04-11,Wheat,Punjab,22.69
+2026-04-11,Wheat,Gujarat,22.7
+2026-04-11,Wheat,Uttar Pradesh,21.68
+2026-04-11,Wheat,Madhya Pradesh,20.62
+2026-04-11,Rice,Maharashtra,68.24
+2026-04-11,Rice,Punjab,66.39
+2026-04-11,Rice,Gujarat,67.3
+2026-04-11,Rice,Uttar Pradesh,63.68
+2026-04-11,Rice,Madhya Pradesh,61.71
+2026-04-11,Tomato,Maharashtra,18.26
+2026-04-11,Tomato,Punjab,18.29
+2026-04-11,Tomato,Gujarat,18.06
+2026-04-11,Tomato,Uttar Pradesh,17.85
+2026-04-11,Tomato,Madhya Pradesh,17.27
+2026-04-11,Potato,Maharashtra,15.37
+2026-04-11,Potato,Punjab,15.09
+2026-04-11,Potato,Gujarat,15.67
+2026-04-11,Potato,Uttar Pradesh,14.46
+2026-04-11,Potato,Madhya Pradesh,13.93
+2026-04-11,Cotton,Maharashtra,63.86
+2026-04-11,Cotton,Punjab,61.68
+2026-04-11,Cotton,Gujarat,62.18
+2026-04-11,Cotton,Uttar Pradesh,59.48
+2026-04-11,Cotton,Madhya Pradesh,57.69
+2026-04-11,Soybean,Maharashtra,43.74
+2026-04-11,Soybean,Punjab,42.39
+2026-04-11,Soybean,Gujarat,43.14
+2026-04-11,Soybean,Uttar Pradesh,41.03
+2026-04-11,Soybean,Madhya Pradesh,39.82
+2026-04-12,Wheat,Maharashtra,23.46
+2026-04-12,Wheat,Punjab,22.74
+2026-04-12,Wheat,Gujarat,23.27
+2026-04-12,Wheat,Uttar Pradesh,21.28
+2026-04-12,Wheat,Madhya Pradesh,20.92
+2026-04-12,Rice,Maharashtra,68.4
+2026-04-12,Rice,Punjab,66.97
+2026-04-12,Rice,Gujarat,67.01
+2026-04-12,Rice,Uttar Pradesh,63.68
+2026-04-12,Rice,Madhya Pradesh,61.98
+2026-04-12,Tomato,Maharashtra,18.57
+2026-04-12,Tomato,Punjab,17.89
+2026-04-12,Tomato,Gujarat,18.04
+2026-04-12,Tomato,Uttar Pradesh,17.83
+2026-04-12,Tomato,Madhya Pradesh,16.82
+2026-04-12,Potato,Maharashtra,16.17
+2026-04-12,Potato,Punjab,15.41
+2026-04-12,Potato,Gujarat,15.06
+2026-04-12,Potato,Uttar Pradesh,15.26
+2026-04-12,Potato,Madhya Pradesh,14.64
+2026-04-12,Cotton,Maharashtra,63.97
+2026-04-12,Cotton,Punjab,62.12
+2026-04-12,Cotton,Gujarat,62.64
+2026-04-12,Cotton,Uttar Pradesh,58.94
+2026-04-12,Cotton,Madhya Pradesh,57.44
+2026-04-12,Soybean,Maharashtra,43.75
+2026-04-12,Soybean,Punjab,42.68
+2026-04-12,Soybean,Gujarat,42.76
+2026-04-12,Soybean,Uttar Pradesh,40.98
+2026-04-12,Soybean,Madhya Pradesh,40.33
+2026-04-13,Wheat,Maharashtra,23.01
+2026-04-13,Wheat,Punjab,22.87
+2026-04-13,Wheat,Gujarat,22.76
+2026-04-13,Wheat,Uttar Pradesh,21.62
+2026-04-13,Wheat,Madhya Pradesh,21.49
+2026-04-13,Rice,Maharashtra,69.11
+2026-04-13,Rice,Punjab,66.71
+2026-04-13,Rice,Gujarat,67.53
+2026-04-13,Rice,Uttar Pradesh,63.7
+2026-04-13,Rice,Madhya Pradesh,61.88
+2026-04-13,Tomato,Maharashtra,19.07
+2026-04-13,Tomato,Punjab,18.15
+2026-04-13,Tomato,Gujarat,18.29
+2026-04-13,Tomato,Uttar Pradesh,17.61
+2026-04-13,Tomato,Madhya Pradesh,16.39
+2026-04-13,Potato,Maharashtra,15.91
+2026-04-13,Potato,Punjab,15.37
+2026-04-13,Potato,Gujarat,15.87
+2026-04-13,Potato,Uttar Pradesh,14.43
+2026-04-13,Potato,Madhya Pradesh,14.78
+2026-04-13,Cotton,Maharashtra,63.17
+2026-04-13,Cotton,Punjab,61.46
+2026-04-13,Cotton,Gujarat,62.47
+2026-04-13,Cotton,Uttar Pradesh,59.52
+2026-04-13,Cotton,Madhya Pradesh,57.27
+2026-04-13,Soybean,Maharashtra,43.65
+2026-04-13,Soybean,Punjab,43.16
+2026-04-13,Soybean,Gujarat,42.93
+2026-04-13,Soybean,Uttar Pradesh,41.19
+2026-04-13,Soybean,Madhya Pradesh,39.95
+2026-04-14,Wheat,Maharashtra,23.19
+2026-04-14,Wheat,Punjab,22.69
+2026-04-14,Wheat,Gujarat,22.85
+2026-04-14,Wheat,Uttar Pradesh,22.15
+2026-04-14,Wheat,Madhya Pradesh,20.76
+2026-04-14,Rice,Maharashtra,68.89
+2026-04-14,Rice,Punjab,66.45
+2026-04-14,Rice,Gujarat,67.26
+2026-04-14,Rice,Uttar Pradesh,64.26
+2026-04-14,Rice,Madhya Pradesh,61.93
+2026-04-14,Tomato,Maharashtra,18.38
+2026-04-14,Tomato,Punjab,18.29
+2026-04-14,Tomato,Gujarat,17.78
+2026-04-14,Tomato,Uttar Pradesh,17.28
+2026-04-14,Tomato,Madhya Pradesh,17.29
+2026-04-14,Potato,Maharashtra,16.33
+2026-04-14,Potato,Punjab,14.95
+2026-04-14,Potato,Gujarat,15.25
+2026-04-14,Potato,Uttar Pradesh,14.54
+2026-04-14,Potato,Madhya Pradesh,14.76
+2026-04-14,Cotton,Maharashtra,64.05
+2026-04-14,Cotton,Punjab,62.23
+2026-04-14,Cotton,Gujarat,62.33
+2026-04-14,Cotton,Uttar Pradesh,59.08
+2026-04-14,Cotton,Madhya Pradesh,57.94
+2026-04-14,Soybean,Maharashtra,44.22
+2026-04-14,Soybean,Punjab,42.87
+2026-04-14,Soybean,Gujarat,43.66
+2026-04-14,Soybean,Uttar Pradesh,41.24
+2026-04-14,Soybean,Madhya Pradesh,39.33
+2026-04-15,Wheat,Maharashtra,23.61
+2026-04-15,Wheat,Punjab,22.42
+2026-04-15,Wheat,Gujarat,23.01
+2026-04-15,Wheat,Uttar Pradesh,22.18
+2026-04-15,Wheat,Madhya Pradesh,20.71
+2026-04-15,Rice,Maharashtra,68.34
+2026-04-15,Rice,Punjab,66.37
+2026-04-15,Rice,Gujarat,67.47
+2026-04-15,Rice,Uttar Pradesh,63.91
+2026-04-15,Rice,Madhya Pradesh,62.28
+2026-04-15,Tomato,Maharashtra,18.74
+2026-04-15,Tomato,Punjab,17.7
+2026-04-15,Tomato,Gujarat,18.3
+2026-04-15,Tomato,Uttar Pradesh,17.05
+2026-04-15,Tomato,Madhya Pradesh,16.75
+2026-04-15,Potato,Maharashtra,16.25
+2026-04-15,Potato,Punjab,15.74
+2026-04-15,Potato,Gujarat,15.13
+2026-04-15,Potato,Uttar Pradesh,14.71
+2026-04-15,Potato,Madhya Pradesh,14.11
+2026-04-15,Cotton,Maharashtra,63.26
+2026-04-15,Cotton,Punjab,62.21
+2026-04-15,Cotton,Gujarat,62.68
+2026-04-15,Cotton,Uttar Pradesh,59.27
+2026-04-15,Cotton,Madhya Pradesh,57.93
+2026-04-15,Soybean,Maharashtra,44.06
+2026-04-15,Soybean,Punjab,42.68
+2026-04-15,Soybean,Gujarat,42.68
+2026-04-15,Soybean,Uttar Pradesh,40.65
+2026-04-15,Soybean,Madhya Pradesh,40.2
+2026-04-16,Wheat,Maharashtra,23.71
+2026-04-16,Wheat,Punjab,22.69
+2026-04-16,Wheat,Gujarat,23.2
+2026-04-16,Wheat,Uttar Pradesh,21.84
+2026-04-16,Wheat,Madhya Pradesh,20.74
+2026-04-16,Rice,Maharashtra,68.4
+2026-04-16,Rice,Punjab,66.62
+2026-04-16,Rice,Gujarat,67.86
+2026-04-16,Rice,Uttar Pradesh,64.49
+2026-04-16,Rice,Madhya Pradesh,62.59
+2026-04-16,Tomato,Maharashtra,18.88
+2026-04-16,Tomato,Punjab,17.66
+2026-04-16,Tomato,Gujarat,17.88
+2026-04-16,Tomato,Uttar Pradesh,16.85
+2026-04-16,Tomato,Madhya Pradesh,17.0
+2026-04-16,Potato,Maharashtra,16.24
+2026-04-16,Potato,Punjab,15.31
+2026-04-16,Potato,Gujarat,15.67
+2026-04-16,Potato,Uttar Pradesh,14.45
+2026-04-16,Potato,Madhya Pradesh,14.77
+2026-04-16,Cotton,Maharashtra,64.2
+2026-04-16,Cotton,Punjab,62.49
+2026-04-16,Cotton,Gujarat,62.93
+2026-04-16,Cotton,Uttar Pradesh,59.97
+2026-04-16,Cotton,Madhya Pradesh,57.28
+2026-04-16,Soybean,Maharashtra,44.23
+2026-04-16,Soybean,Punjab,42.57
+2026-04-16,Soybean,Gujarat,43.59
+2026-04-16,Soybean,Uttar Pradesh,41.36
+2026-04-16,Soybean,Madhya Pradesh,40.17
+2026-04-17,Wheat,Maharashtra,23.64
+2026-04-17,Wheat,Punjab,22.43
+2026-04-17,Wheat,Gujarat,23.17
+2026-04-17,Wheat,Uttar Pradesh,21.38
+2026-04-17,Wheat,Madhya Pradesh,21.48
+2026-04-17,Rice,Maharashtra,69.19
+2026-04-17,Rice,Punjab,66.58
+2026-04-17,Rice,Gujarat,67.83
+2026-04-17,Rice,Uttar Pradesh,64.2
+2026-04-17,Rice,Madhya Pradesh,62.08
+2026-04-17,Tomato,Maharashtra,18.73
+2026-04-17,Tomato,Punjab,17.64
+2026-04-17,Tomato,Gujarat,17.61
+2026-04-17,Tomato,Uttar Pradesh,16.9
+2026-04-17,Tomato,Madhya Pradesh,16.51
+2026-04-17,Potato,Maharashtra,16.23
+2026-04-17,Potato,Punjab,15.88
+2026-04-17,Potato,Gujarat,15.34
+2026-04-17,Potato,Uttar Pradesh,14.95
+2026-04-17,Potato,Madhya Pradesh,14.25
+2026-04-17,Cotton,Maharashtra,64.41
+2026-04-17,Cotton,Punjab,62.13
+2026-04-17,Cotton,Gujarat,63.15
+2026-04-17,Cotton,Uttar Pradesh,59.28
+2026-04-17,Cotton,Madhya Pradesh,58.31
+2026-04-17,Soybean,Maharashtra,43.66
+2026-04-17,Soybean,Punjab,43.19
+2026-04-17,Soybean,Gujarat,42.91
+2026-04-17,Soybean,Uttar Pradesh,40.66
+2026-04-17,Soybean,Madhya Pradesh,39.73
+2026-04-18,Wheat,Maharashtra,23.58
+2026-04-18,Wheat,Punjab,22.5
+2026-04-18,Wheat,Gujarat,23.01
+2026-04-18,Wheat,Uttar Pradesh,21.81
+2026-04-18,Wheat,Madhya Pradesh,21.01
+2026-04-18,Rice,Maharashtra,68.96
+2026-04-18,Rice,Punjab,66.67
+2026-04-18,Rice,Gujarat,67.78
+2026-04-18,Rice,Uttar Pradesh,63.79
+2026-04-18,Rice,Madhya Pradesh,62.75
+2026-04-18,Tomato,Maharashtra,18.43
+2026-04-18,Tomato,Punjab,18.09
+2026-04-18,Tomato,Gujarat,18.29
+2026-04-18,Tomato,Uttar Pradesh,17.34
+2026-04-18,Tomato,Madhya Pradesh,16.51
+2026-04-18,Potato,Maharashtra,15.45
+2026-04-18,Potato,Punjab,15.59
+2026-04-18,Potato,Gujarat,15.4
+2026-04-18,Potato,Uttar Pradesh,14.63
+2026-04-18,Potato,Madhya Pradesh,14.71
+2026-04-18,Cotton,Maharashtra,64.23
+2026-04-18,Cotton,Punjab,61.98
+2026-04-18,Cotton,Gujarat,62.6
+2026-04-18,Cotton,Uttar Pradesh,59.65
+2026-04-18,Cotton,Madhya Pradesh,57.81
+2026-04-18,Soybean,Maharashtra,43.77
+2026-04-18,Soybean,Punjab,42.34
+2026-04-18,Soybean,Gujarat,43.06
+2026-04-18,Soybean,Uttar Pradesh,41.48
+2026-04-18,Soybean,Madhya Pradesh,39.96
+2026-04-19,Wheat,Maharashtra,23.78
+2026-04-19,Wheat,Punjab,22.82
+2026-04-19,Wheat,Gujarat,22.73
+2026-04-19,Wheat,Uttar Pradesh,21.86
+2026-04-19,Wheat,Madhya Pradesh,20.65
+2026-04-19,Rice,Maharashtra,68.72
+2026-04-19,Rice,Punjab,66.89
+2026-04-19,Rice,Gujarat,67.7
+2026-04-19,Rice,Uttar Pradesh,64.49
+2026-04-19,Rice,Madhya Pradesh,62.33
+2026-04-19,Tomato,Maharashtra,18.3
+2026-04-19,Tomato,Punjab,17.54
+2026-04-19,Tomato,Gujarat,17.98
+2026-04-19,Tomato,Uttar Pradesh,17.53
+2026-04-19,Tomato,Madhya Pradesh,16.9
+2026-04-19,Potato,Maharashtra,15.56
+2026-04-19,Potato,Punjab,15.02
+2026-04-19,Potato,Gujarat,15.6
+2026-04-19,Potato,Uttar Pradesh,14.96
+2026-04-19,Potato,Madhya Pradesh,14.21
+2026-04-19,Cotton,Maharashtra,64.41
+2026-04-19,Cotton,Punjab,62.51
+2026-04-19,Cotton,Gujarat,63.04
+2026-04-19,Cotton,Uttar Pradesh,59.54
+2026-04-19,Cotton,Madhya Pradesh,57.69
+2026-04-19,Soybean,Maharashtra,43.49
+2026-04-19,Soybean,Punjab,42.45
+2026-04-19,Soybean,Gujarat,43.1
+2026-04-19,Soybean,Uttar Pradesh,41.38
+2026-04-19,Soybean,Madhya Pradesh,39.35
+2026-04-20,Wheat,Maharashtra,23.31
+2026-04-20,Wheat,Punjab,22.86
+2026-04-20,Wheat,Gujarat,22.64
+2026-04-20,Wheat,Uttar Pradesh,22.03
+2026-04-20,Wheat,Madhya Pradesh,21.16
+2026-04-20,Rice,Maharashtra,68.73
+2026-04-20,Rice,Punjab,67.17
+2026-04-20,Rice,Gujarat,67.18
+2026-04-20,Rice,Uttar Pradesh,64.64
+2026-04-20,Rice,Madhya Pradesh,62.69
+2026-04-20,Tomato,Maharashtra,17.92
+2026-04-20,Tomato,Punjab,17.71
+2026-04-20,Tomato,Gujarat,17.64
+2026-04-20,Tomato,Uttar Pradesh,17.55
+2026-04-20,Tomato,Madhya Pradesh,16.59
+2026-04-20,Potato,Maharashtra,15.45
+2026-04-20,Potato,Punjab,15.19
+2026-04-20,Potato,Gujarat,15.94
+2026-04-20,Potato,Uttar Pradesh,14.79
+2026-04-20,Potato,Madhya Pradesh,14.68
+2026-04-20,Cotton,Maharashtra,64.34
+2026-04-20,Cotton,Punjab,62.83
+2026-04-20,Cotton,Gujarat,63.05
+2026-04-20,Cotton,Uttar Pradesh,60.35
+2026-04-20,Cotton,Madhya Pradesh,58.46
+2026-04-20,Soybean,Maharashtra,44.07
+2026-04-20,Soybean,Punjab,42.92
+2026-04-20,Soybean,Gujarat,43.12
+2026-04-20,Soybean,Uttar Pradesh,41.35
+2026-04-20,Soybean,Madhya Pradesh,39.81
+2026-04-21,Wheat,Maharashtra,23.81
+2026-04-21,Wheat,Punjab,22.99
+2026-04-21,Wheat,Gujarat,22.94
+2026-04-21,Wheat,Uttar Pradesh,21.61
+2026-04-21,Wheat,Madhya Pradesh,20.93
+2026-04-21,Rice,Maharashtra,69.18
+2026-04-21,Rice,Punjab,67.33
+2026-04-21,Rice,Gujarat,67.74
+2026-04-21,Rice,Uttar Pradesh,64.56
+2026-04-21,Rice,Madhya Pradesh,62.24
+2026-04-21,Tomato,Maharashtra,17.85
+2026-04-21,Tomato,Punjab,17.53
+2026-04-21,Tomato,Gujarat,17.69
+2026-04-21,Tomato,Uttar Pradesh,16.87
+2026-04-21,Tomato,Madhya Pradesh,16.57
+2026-04-21,Potato,Maharashtra,15.55
+2026-04-21,Potato,Punjab,15.18
+2026-04-21,Potato,Gujarat,15.8
+2026-04-21,Potato,Uttar Pradesh,15.05
+2026-04-21,Potato,Madhya Pradesh,13.96
+2026-04-21,Cotton,Maharashtra,64.17
+2026-04-21,Cotton,Punjab,62.47
+2026-04-21,Cotton,Gujarat,62.95
+2026-04-21,Cotton,Uttar Pradesh,59.68
+2026-04-21,Cotton,Madhya Pradesh,58.06
+2026-04-21,Soybean,Maharashtra,44.35
+2026-04-21,Soybean,Punjab,42.77
+2026-04-21,Soybean,Gujarat,43.3
+2026-04-21,Soybean,Uttar Pradesh,41.37
+2026-04-21,Soybean,Madhya Pradesh,40.02
+2026-04-22,Wheat,Maharashtra,23.32
+2026-04-22,Wheat,Punjab,22.27
+2026-04-22,Wheat,Gujarat,22.84
+2026-04-22,Wheat,Uttar Pradesh,22.13
+2026-04-22,Wheat,Madhya Pradesh,21.56
+2026-04-22,Rice,Maharashtra,69.54
+2026-04-22,Rice,Punjab,67.04
+2026-04-22,Rice,Gujarat,68.02
+2026-04-22,Rice,Uttar Pradesh,64.53
+2026-04-22,Rice,Madhya Pradesh,62.61
+2026-04-22,Tomato,Maharashtra,17.95
+2026-04-22,Tomato,Punjab,17.43
+2026-04-22,Tomato,Gujarat,17.82
+2026-04-22,Tomato,Uttar Pradesh,16.54
+2026-04-22,Tomato,Madhya Pradesh,16.33
+2026-04-22,Potato,Maharashtra,16.1
+2026-04-22,Potato,Punjab,15.37
+2026-04-22,Potato,Gujarat,15.28
+2026-04-22,Potato,Uttar Pradesh,14.82
+2026-04-22,Potato,Madhya Pradesh,14.03
+2026-04-22,Cotton,Maharashtra,64.47
+2026-04-22,Cotton,Punjab,62.03
+2026-04-22,Cotton,Gujarat,63.01
+2026-04-22,Cotton,Uttar Pradesh,60.12
+2026-04-22,Cotton,Madhya Pradesh,57.74
+2026-04-22,Soybean,Maharashtra,44.07
+2026-04-22,Soybean,Punjab,42.31
+2026-04-22,Soybean,Gujarat,43.06
+2026-04-22,Soybean,Uttar Pradesh,40.55
+2026-04-22,Soybean,Madhya Pradesh,39.63
+2026-04-23,Wheat,Maharashtra,23.17
+2026-04-23,Wheat,Punjab,22.61
+2026-04-23,Wheat,Gujarat,23.27
+2026-04-23,Wheat,Uttar Pradesh,21.77
+2026-04-23,Wheat,Madhya Pradesh,21.48
+2026-04-23,Rice,Maharashtra,69.47
+2026-04-23,Rice,Punjab,66.92
+2026-04-23,Rice,Gujarat,67.41
+2026-04-23,Rice,Uttar Pradesh,64.05
+2026-04-23,Rice,Madhya Pradesh,62.6
+2026-04-23,Tomato,Maharashtra,18.69
+2026-04-23,Tomato,Punjab,17.52
+2026-04-23,Tomato,Gujarat,17.99
+2026-04-23,Tomato,Uttar Pradesh,17.25
+2026-04-23,Tomato,Madhya Pradesh,16.61
+2026-04-23,Potato,Maharashtra,16.18
+2026-04-23,Potato,Punjab,15.92
+2026-04-23,Potato,Gujarat,15.32
+2026-04-23,Potato,Uttar Pradesh,14.39
+2026-04-23,Potato,Madhya Pradesh,14.06
+2026-04-23,Cotton,Maharashtra,64.05
+2026-04-23,Cotton,Punjab,62.76
+2026-04-23,Cotton,Gujarat,63.26
+2026-04-23,Cotton,Uttar Pradesh,59.85
+2026-04-23,Cotton,Madhya Pradesh,58.49
+2026-04-23,Soybean,Maharashtra,44.19
+2026-04-23,Soybean,Punjab,42.33
+2026-04-23,Soybean,Gujarat,43.19
+2026-04-23,Soybean,Uttar Pradesh,41.24
+2026-04-23,Soybean,Madhya Pradesh,39.35
+2026-04-24,Wheat,Maharashtra,23.8
+2026-04-24,Wheat,Punjab,23.27
+2026-04-24,Wheat,Gujarat,22.64
+2026-04-24,Wheat,Uttar Pradesh,21.44
+2026-04-24,Wheat,Madhya Pradesh,21.05
+2026-04-24,Rice,Maharashtra,69.37
+2026-04-24,Rice,Punjab,67.68
+2026-04-24,Rice,Gujarat,67.77
+2026-04-24,Rice,Uttar Pradesh,64.8
+2026-04-24,Rice,Madhya Pradesh,62.18
+2026-04-24,Tomato,Maharashtra,18.33
+2026-04-24,Tomato,Punjab,17.75
+2026-04-24,Tomato,Gujarat,17.4
+2026-04-24,Tomato,Uttar Pradesh,17.21
+2026-04-24,Tomato,Madhya Pradesh,16.77
+2026-04-24,Potato,Maharashtra,16.04
+2026-04-24,Potato,Punjab,15.1
+2026-04-24,Potato,Gujarat,16.12
+2026-04-24,Potato,Uttar Pradesh,15.16
+2026-04-24,Potato,Madhya Pradesh,14.27
+2026-04-24,Cotton,Maharashtra,64.44
+2026-04-24,Cotton,Punjab,62.54
+2026-04-24,Cotton,Gujarat,63.29
+2026-04-24,Cotton,Uttar Pradesh,60.05
+2026-04-24,Cotton,Madhya Pradesh,58.72
+2026-04-24,Soybean,Maharashtra,44.23
+2026-04-24,Soybean,Punjab,42.26
+2026-04-24,Soybean,Gujarat,43.54
+2026-04-24,Soybean,Uttar Pradesh,41.12
+2026-04-24,Soybean,Madhya Pradesh,40.06
+2026-04-25,Wheat,Maharashtra,23.71
+2026-04-25,Wheat,Punjab,22.76
+2026-04-25,Wheat,Gujarat,23.29
+2026-04-25,Wheat,Uttar Pradesh,22.4
+2026-04-25,Wheat,Madhya Pradesh,21.03
+2026-04-25,Rice,Maharashtra,69.56
+2026-04-25,Rice,Punjab,67.31
+2026-04-25,Rice,Gujarat,67.91
+2026-04-25,Rice,Uttar Pradesh,64.57
+2026-04-25,Rice,Madhya Pradesh,62.88
+2026-04-25,Tomato,Maharashtra,17.87
+2026-04-25,Tomato,Punjab,17.94
+2026-04-25,Tomato,Gujarat,18.09
+2026-04-25,Tomato,Uttar Pradesh,16.48
+2026-04-25,Tomato,Madhya Pradesh,16.76
+2026-04-25,Potato,Maharashtra,15.69
+2026-04-25,Potato,Punjab,15.46
+2026-04-25,Potato,Gujarat,15.76
+2026-04-25,Potato,Uttar Pradesh,14.77
+2026-04-25,Potato,Madhya Pradesh,13.96
+2026-04-25,Cotton,Maharashtra,64.95
+2026-04-25,Cotton,Punjab,62.43
+2026-04-25,Cotton,Gujarat,63.08
+2026-04-25,Cotton,Uttar Pradesh,60.59
+2026-04-25,Cotton,Madhya Pradesh,58.28
+2026-04-25,Soybean,Maharashtra,44.28
+2026-04-25,Soybean,Punjab,42.85
+2026-04-25,Soybean,Gujarat,42.84
+2026-04-25,Soybean,Uttar Pradesh,40.48
+2026-04-25,Soybean,Madhya Pradesh,40.17
+2026-04-26,Wheat,Maharashtra,23.11
+2026-04-26,Wheat,Punjab,23.07
+2026-04-26,Wheat,Gujarat,23.06
+2026-04-26,Wheat,Uttar Pradesh,22.21
+2026-04-26,Wheat,Madhya Pradesh,21.47
+2026-04-26,Rice,Maharashtra,69.45
+2026-04-26,Rice,Punjab,67.31
+2026-04-26,Rice,Gujarat,68.27
+2026-04-26,Rice,Uttar Pradesh,64.27
+2026-04-26,Rice,Madhya Pradesh,62.42
+2026-04-26,Tomato,Maharashtra,18.25
+2026-04-26,Tomato,Punjab,17.35
+2026-04-26,Tomato,Gujarat,17.8
+2026-04-26,Tomato,Uttar Pradesh,16.83
+2026-04-26,Tomato,Madhya Pradesh,16.37
+2026-04-26,Potato,Maharashtra,15.89
+2026-04-26,Potato,Punjab,15.75
+2026-04-26,Potato,Gujarat,15.49
+2026-04-26,Potato,Uttar Pradesh,15.1
+2026-04-26,Potato,Madhya Pradesh,14.21
+2026-04-26,Cotton,Maharashtra,64.43
+2026-04-26,Cotton,Punjab,62.45
+2026-04-26,Cotton,Gujarat,63.14
+2026-04-26,Cotton,Uttar Pradesh,59.99
+2026-04-26,Cotton,Madhya Pradesh,58.56
+2026-04-26,Soybean,Maharashtra,44.15
+2026-04-26,Soybean,Punjab,42.32
+2026-04-26,Soybean,Gujarat,42.77
+2026-04-26,Soybean,Uttar Pradesh,40.95
+2026-04-26,Soybean,Madhya Pradesh,39.93
+2026-04-27,Wheat,Maharashtra,24.02
+2026-04-27,Wheat,Punjab,22.89
+2026-04-27,Wheat,Gujarat,22.88
+2026-04-27,Wheat,Uttar Pradesh,21.57
+2026-04-27,Wheat,Madhya Pradesh,20.99
+2026-04-27,Rice,Maharashtra,69.08
+2026-04-27,Rice,Punjab,67.05
+2026-04-27,Rice,Gujarat,67.55
+2026-04-27,Rice,Uttar Pradesh,64.76
+2026-04-27,Rice,Madhya Pradesh,62.52
+2026-04-27,Tomato,Maharashtra,18.49
+2026-04-27,Tomato,Punjab,17.56
+2026-04-27,Tomato,Gujarat,17.87
+2026-04-27,Tomato,Uttar Pradesh,16.44
+2026-04-27,Tomato,Madhya Pradesh,16.67
+2026-04-27,Potato,Maharashtra,15.96
+2026-04-27,Potato,Punjab,15.89
+2026-04-27,Potato,Gujarat,15.74
+2026-04-27,Potato,Uttar Pradesh,14.88
+2026-04-27,Potato,Madhya Pradesh,14.39
+2026-04-27,Cotton,Maharashtra,64.45
+2026-04-27,Cotton,Punjab,62.46
+2026-04-27,Cotton,Gujarat,63.97
+2026-04-27,Cotton,Uttar Pradesh,60.42
+2026-04-27,Cotton,Madhya Pradesh,58.92
+2026-04-27,Soybean,Maharashtra,43.78
+2026-04-27,Soybean,Punjab,42.2
+2026-04-27,Soybean,Gujarat,43.17
+2026-04-27,Soybean,Uttar Pradesh,40.51
+2026-04-27,Soybean,Madhya Pradesh,39.35
+2026-04-28,Wheat,Maharashtra,23.62
+2026-04-28,Wheat,Punjab,22.69
+2026-04-28,Wheat,Gujarat,23.61
+2026-04-28,Wheat,Uttar Pradesh,21.61
+2026-04-28,Wheat,Madhya Pradesh,21.58
+2026-04-28,Rice,Maharashtra,69.51
+2026-04-28,Rice,Punjab,67.71
+2026-04-28,Rice,Gujarat,67.81
+2026-04-28,Rice,Uttar Pradesh,64.8
+2026-04-28,Rice,Madhya Pradesh,62.75
+2026-04-28,Tomato,Maharashtra,17.92
+2026-04-28,Tomato,Punjab,17.82
+2026-04-28,Tomato,Gujarat,18.12
+2026-04-28,Tomato,Uttar Pradesh,16.58
+2026-04-28,Tomato,Madhya Pradesh,16.39
+2026-04-28,Potato,Maharashtra,16.09
+2026-04-28,Potato,Punjab,15.76
+2026-04-28,Potato,Gujarat,16.12
+2026-04-28,Potato,Uttar Pradesh,14.62
+2026-04-28,Potato,Madhya Pradesh,14.17
+2026-04-28,Cotton,Maharashtra,65.01
+2026-04-28,Cotton,Punjab,62.65
+2026-04-28,Cotton,Gujarat,63.29
+2026-04-28,Cotton,Uttar Pradesh,60.1
+2026-04-28,Cotton,Madhya Pradesh,58.17
+2026-04-28,Soybean,Maharashtra,43.82
+2026-04-28,Soybean,Punjab,42.71
+2026-04-28,Soybean,Gujarat,42.82
+2026-04-28,Soybean,Uttar Pradesh,40.68
+2026-04-28,Soybean,Madhya Pradesh,39.9
+2026-04-29,Wheat,Maharashtra,23.79
+2026-04-29,Wheat,Punjab,22.86
+2026-04-29,Wheat,Gujarat,23.32
+2026-04-29,Wheat,Uttar Pradesh,22.43
+2026-04-29,Wheat,Madhya Pradesh,21.62
+2026-04-29,Rice,Maharashtra,69.58
+2026-04-29,Rice,Punjab,67.63
+2026-04-29,Rice,Gujarat,68.57
+2026-04-29,Rice,Uttar Pradesh,64.75
+2026-04-29,Rice,Madhya Pradesh,62.89
+2026-04-29,Tomato,Maharashtra,18.08
+2026-04-29,Tomato,Punjab,17.83
+2026-04-29,Tomato,Gujarat,17.92
+2026-04-29,Tomato,Uttar Pradesh,16.31
+2026-04-29,Tomato,Madhya Pradesh,15.89
+2026-04-29,Potato,Maharashtra,15.8
+2026-04-29,Potato,Punjab,15.78
+2026-04-29,Potato,Gujarat,15.76
+2026-04-29,Potato,Uttar Pradesh,14.71
+2026-04-29,Potato,Madhya Pradesh,14.09
+2026-04-29,Cotton,Maharashtra,65.12
+2026-04-29,Cotton,Punjab,63.28
+2026-04-29,Cotton,Gujarat,64.14
+2026-04-29,Cotton,Uttar Pradesh,60.6
+2026-04-29,Cotton,Madhya Pradesh,58.74
+2026-04-29,Soybean,Maharashtra,43.44
+2026-04-29,Soybean,Punjab,42.15
+2026-04-29,Soybean,Gujarat,42.96
+2026-04-29,Soybean,Uttar Pradesh,40.76
+2026-04-29,Soybean,Madhya Pradesh,39.43
+2026-04-30,Wheat,Maharashtra,23.2
+2026-04-30,Wheat,Punjab,23.39
+2026-04-30,Wheat,Gujarat,23.49
+2026-04-30,Wheat,Uttar Pradesh,22.11
+2026-04-30,Wheat,Madhya Pradesh,21.81
+2026-04-30,Rice,Maharashtra,70.01
+2026-04-30,Rice,Punjab,67.7
+2026-04-30,Rice,Gujarat,67.96
+2026-04-30,Rice,Uttar Pradesh,64.42
+2026-04-30,Rice,Madhya Pradesh,63.15
+2026-04-30,Tomato,Maharashtra,17.86
+2026-04-30,Tomato,Punjab,17.53
+2026-04-30,Tomato,Gujarat,17.97
+2026-04-30,Tomato,Uttar Pradesh,16.38
+2026-04-30,Tomato,Madhya Pradesh,16.27
+2026-04-30,Potato,Maharashtra,16.14
+2026-04-30,Potato,Punjab,15.54
+2026-04-30,Potato,Gujarat,15.29
+2026-04-30,Potato,Uttar Pradesh,14.78
+2026-04-30,Potato,Madhya Pradesh,14.31
+2026-04-30,Cotton,Maharashtra,65.19
+2026-04-30,Cotton,Punjab,63.52
+2026-04-30,Cotton,Gujarat,63.61
+2026-04-30,Cotton,Uttar Pradesh,60.88
+2026-04-30,Cotton,Madhya Pradesh,58.61
+2026-04-30,Soybean,Maharashtra,44.29
+2026-04-30,Soybean,Punjab,42.91
+2026-04-30,Soybean,Gujarat,43.06
+2026-04-30,Soybean,Uttar Pradesh,40.88
+2026-04-30,Soybean,Madhya Pradesh,39.49
+2026-05-01,Wheat,Maharashtra,23.45
+2026-05-01,Wheat,Punjab,23.42
+2026-05-01,Wheat,Gujarat,23.08
+2026-05-01,Wheat,Uttar Pradesh,22.06
+2026-05-01,Wheat,Madhya Pradesh,21.86
+2026-05-01,Rice,Maharashtra,69.72
+2026-05-01,Rice,Punjab,67.62
+2026-05-01,Rice,Gujarat,68.15
+2026-05-01,Rice,Uttar Pradesh,64.61
+2026-05-01,Rice,Madhya Pradesh,62.8
+2026-05-01,Tomato,Maharashtra,18.11
+2026-05-01,Tomato,Punjab,17.47
+2026-05-01,Tomato,Gujarat,17.77
+2026-05-01,Tomato,Uttar Pradesh,16.36
+2026-05-01,Tomato,Madhya Pradesh,16.2
+2026-05-01,Potato,Maharashtra,16.44
+2026-05-01,Potato,Punjab,15.49
+2026-05-01,Potato,Gujarat,15.91
+2026-05-01,Potato,Uttar Pradesh,14.57
+2026-05-01,Potato,Madhya Pradesh,14.96
+2026-05-01,Cotton,Maharashtra,65.21
+2026-05-01,Cotton,Punjab,62.98
+2026-05-01,Cotton,Gujarat,63.52
+2026-05-01,Cotton,Uttar Pradesh,60.81
+2026-05-01,Cotton,Madhya Pradesh,58.95
+2026-05-01,Soybean,Maharashtra,43.43
+2026-05-01,Soybean,Punjab,43.08
+2026-05-01,Soybean,Gujarat,43.42
+2026-05-01,Soybean,Uttar Pradesh,40.88
+2026-05-01,Soybean,Madhya Pradesh,39.28
+2026-05-02,Wheat,Maharashtra,23.98
+2026-05-02,Wheat,Punjab,22.97
+2026-05-02,Wheat,Gujarat,23.41
+2026-05-02,Wheat,Uttar Pradesh,22.08
+2026-05-02,Wheat,Madhya Pradesh,21.17
+2026-05-02,Rice,Maharashtra,69.95
+2026-05-02,Rice,Punjab,68.11
+2026-05-02,Rice,Gujarat,68.03
+2026-05-02,Rice,Uttar Pradesh,65.03
+2026-05-02,Rice,Madhya Pradesh,62.87
+2026-05-02,Tomato,Maharashtra,18.23
+2026-05-02,Tomato,Punjab,17.31
+2026-05-02,Tomato,Gujarat,17.85
+2026-05-02,Tomato,Uttar Pradesh,16.98
+2026-05-02,Tomato,Madhya Pradesh,15.89
+2026-05-02,Potato,Maharashtra,16.31
+2026-05-02,Potato,Punjab,15.48
+2026-05-02,Potato,Gujarat,16.15
+2026-05-02,Potato,Uttar Pradesh,14.96
+2026-05-02,Potato,Madhya Pradesh,14.82
+2026-05-02,Cotton,Maharashtra,64.97
+2026-05-02,Cotton,Punjab,63.12
+2026-05-02,Cotton,Gujarat,64.03
+2026-05-02,Cotton,Uttar Pradesh,61.34
+2026-05-02,Cotton,Madhya Pradesh,58.97
+2026-05-02,Soybean,Maharashtra,43.48
+2026-05-02,Soybean,Punjab,42.61
+2026-05-02,Soybean,Gujarat,42.84
+2026-05-02,Soybean,Uttar Pradesh,40.96
+2026-05-02,Soybean,Madhya Pradesh,39.7
+2026-05-03,Wheat,Maharashtra,23.62
+2026-05-03,Wheat,Punjab,22.81
+2026-05-03,Wheat,Gujarat,22.9
+2026-05-03,Wheat,Uttar Pradesh,22.29
+2026-05-03,Wheat,Madhya Pradesh,21.48
+2026-05-03,Rice,Maharashtra,69.4
+2026-05-03,Rice,Punjab,67.95
+2026-05-03,Rice,Gujarat,67.88
+2026-05-03,Rice,Uttar Pradesh,65.27
+2026-05-03,Rice,Madhya Pradesh,63.24
+2026-05-03,Tomato,Maharashtra,18.08
+2026-05-03,Tomato,Punjab,17.14
+2026-05-03,Tomato,Gujarat,17.59
+2026-05-03,Tomato,Uttar Pradesh,16.9
+2026-05-03,Tomato,Madhya Pradesh,16.55
+2026-05-03,Potato,Maharashtra,16.03
+2026-05-03,Potato,Punjab,15.11
+2026-05-03,Potato,Gujarat,15.73
+2026-05-03,Potato,Uttar Pradesh,15.05
+2026-05-03,Potato,Madhya Pradesh,14.88
+2026-05-03,Cotton,Maharashtra,65.64
+2026-05-03,Cotton,Punjab,63.34
+2026-05-03,Cotton,Gujarat,64.05
+2026-05-03,Cotton,Uttar Pradesh,60.87
+2026-05-03,Cotton,Madhya Pradesh,59.27
+2026-05-03,Soybean,Maharashtra,43.73
+2026-05-03,Soybean,Punjab,42.72
+2026-05-03,Soybean,Gujarat,42.64
+2026-05-03,Soybean,Uttar Pradesh,40.86
+2026-05-03,Soybean,Madhya Pradesh,40.11
+2026-05-04,Wheat,Maharashtra,23.53
+2026-05-04,Wheat,Punjab,23.2
+2026-05-04,Wheat,Gujarat,23.39
+2026-05-04,Wheat,Uttar Pradesh,22.46
+2026-05-04,Wheat,Madhya Pradesh,21.78
+2026-05-04,Rice,Maharashtra,70.08
+2026-05-04,Rice,Punjab,67.61
+2026-05-04,Rice,Gujarat,68.21
+2026-05-04,Rice,Uttar Pradesh,65.29
+2026-05-04,Rice,Madhya Pradesh,63.34
+2026-05-04,Tomato,Maharashtra,18.1
+2026-05-04,Tomato,Punjab,16.75
+2026-05-04,Tomato,Gujarat,16.95
+2026-05-04,Tomato,Uttar Pradesh,16.67
+2026-05-04,Tomato,Madhya Pradesh,16.46
+2026-05-04,Potato,Maharashtra,16.54
+2026-05-04,Potato,Punjab,15.83
+2026-05-04,Potato,Gujarat,15.67
+2026-05-04,Potato,Uttar Pradesh,14.57
+2026-05-04,Potato,Madhya Pradesh,14.65
+2026-05-04,Cotton,Maharashtra,65.72
+2026-05-04,Cotton,Punjab,63.43
+2026-05-04,Cotton,Gujarat,64.3
+2026-05-04,Cotton,Uttar Pradesh,61.4
+2026-05-04,Cotton,Madhya Pradesh,58.67
+2026-05-04,Soybean,Maharashtra,44.1
+2026-05-04,Soybean,Punjab,42.35
+2026-05-04,Soybean,Gujarat,42.85
+2026-05-04,Soybean,Uttar Pradesh,40.53
+2026-05-04,Soybean,Madhya Pradesh,39.67
+2026-05-05,Wheat,Maharashtra,23.77
+2026-05-05,Wheat,Punjab,23.32
+2026-05-05,Wheat,Gujarat,22.93
+2026-05-05,Wheat,Uttar Pradesh,21.71
+2026-05-05,Wheat,Madhya Pradesh,21.82
+2026-05-05,Rice,Maharashtra,69.89
+2026-05-05,Rice,Punjab,67.52
+2026-05-05,Rice,Gujarat,68.86
+2026-05-05,Rice,Uttar Pradesh,64.76
+2026-05-05,Rice,Madhya Pradesh,63.09
+2026-05-05,Tomato,Maharashtra,17.44
+2026-05-05,Tomato,Punjab,16.93
+2026-05-05,Tomato,Gujarat,16.85
+2026-05-05,Tomato,Uttar Pradesh,16.81
+2026-05-05,Tomato,Madhya Pradesh,16.4
+2026-05-05,Potato,Maharashtra,16.23
+2026-05-05,Potato,Punjab,15.25
+2026-05-05,Potato,Gujarat,15.69
+2026-05-05,Potato,Uttar Pradesh,14.83
+2026-05-05,Potato,Madhya Pradesh,14.61
+2026-05-05,Cotton,Maharashtra,65.57
+2026-05-05,Cotton,Punjab,63.49
+2026-05-05,Cotton,Gujarat,63.94
+2026-05-05,Cotton,Uttar Pradesh,61.42
+2026-05-05,Cotton,Madhya Pradesh,58.9
+2026-05-05,Soybean,Maharashtra,43.68
+2026-05-05,Soybean,Punjab,42.53
+2026-05-05,Soybean,Gujarat,42.7
+2026-05-05,Soybean,Uttar Pradesh,40.95
+2026-05-05,Soybean,Madhya Pradesh,39.7
+2026-05-06,Wheat,Maharashtra,24.22
+2026-05-06,Wheat,Punjab,22.85
+2026-05-06,Wheat,Gujarat,23.76
+2026-05-06,Wheat,Uttar Pradesh,22.31
+2026-05-06,Wheat,Madhya Pradesh,21.24
+2026-05-06,Rice,Maharashtra,69.89
+2026-05-06,Rice,Punjab,68.02
+2026-05-06,Rice,Gujarat,68.74
+2026-05-06,Rice,Uttar Pradesh,64.72
+2026-05-06,Rice,Madhya Pradesh,63.28
+2026-05-06,Tomato,Maharashtra,17.64
+2026-05-06,Tomato,Punjab,17.54
+2026-05-06,Tomato,Gujarat,17.09
+2026-05-06,Tomato,Uttar Pradesh,16.76
+2026-05-06,Tomato,Madhya Pradesh,16.07
+2026-05-06,Potato,Maharashtra,15.92
+2026-05-06,Potato,Punjab,15.74
+2026-05-06,Potato,Gujarat,15.88
+2026-05-06,Potato,Uttar Pradesh,15.17
+2026-05-06,Potato,Madhya Pradesh,14.76
+2026-05-06,Cotton,Maharashtra,65.68
+2026-05-06,Cotton,Punjab,63.99
+2026-05-06,Cotton,Gujarat,64.4
+2026-05-06,Cotton,Uttar Pradesh,61.56
+2026-05-06,Cotton,Madhya Pradesh,59.43
+2026-05-06,Soybean,Maharashtra,43.59
+2026-05-06,Soybean,Punjab,42.47
+2026-05-06,Soybean,Gujarat,43.03
+2026-05-06,Soybean,Uttar Pradesh,41.1
+2026-05-06,Soybean,Madhya Pradesh,39.21
+2026-05-07,Wheat,Maharashtra,23.55
+2026-05-07,Wheat,Punjab,23.32
+2026-05-07,Wheat,Gujarat,22.97
+2026-05-07,Wheat,Uttar Pradesh,21.8
+2026-05-07,Wheat,Madhya Pradesh,21.53
+2026-05-07,Rice,Maharashtra,70.35
+2026-05-07,Rice,Punjab,67.91
+2026-05-07,Rice,Gujarat,68.96
+2026-05-07,Rice,Uttar Pradesh,65.55
+2026-05-07,Rice,Madhya Pradesh,62.98
+2026-05-07,Tomato,Maharashtra,17.92
+2026-05-07,Tomato,Punjab,17.08
+2026-05-07,Tomato,Gujarat,17.57
+2026-05-07,Tomato,Uttar Pradesh,16.67
+2026-05-07,Tomato,Madhya Pradesh,15.76
+2026-05-07,Potato,Maharashtra,15.69
+2026-05-07,Potato,Punjab,16.08
+2026-05-07,Potato,Gujarat,15.41
+2026-05-07,Potato,Uttar Pradesh,15.47
+2026-05-07,Potato,Madhya Pradesh,14.9
+2026-05-07,Cotton,Maharashtra,65.83
+2026-05-07,Cotton,Punjab,64.21
+2026-05-07,Cotton,Gujarat,64.82
+2026-05-07,Cotton,Uttar Pradesh,61.53
+2026-05-07,Cotton,Madhya Pradesh,59.22
+2026-05-07,Soybean,Maharashtra,44.07
+2026-05-07,Soybean,Punjab,42.04
+2026-05-07,Soybean,Gujarat,42.98
+2026-05-07,Soybean,Uttar Pradesh,40.81
+2026-05-07,Soybean,Madhya Pradesh,39.78
+2026-05-08,Wheat,Maharashtra,23.94
+2026-05-08,Wheat,Punjab,23.18
+2026-05-08,Wheat,Gujarat,23.64
+2026-05-08,Wheat,Uttar Pradesh,22.63
+2026-05-08,Wheat,Madhya Pradesh,21.12
+2026-05-08,Rice,Maharashtra,69.66
+2026-05-08,Rice,Punjab,67.46
+2026-05-08,Rice,Gujarat,68.98
+2026-05-08,Rice,Uttar Pradesh,65.33
+2026-05-08,Rice,Madhya Pradesh,63.69
+2026-05-08,Tomato,Maharashtra,17.28
+2026-05-08,Tomato,Punjab,16.62
+2026-05-08,Tomato,Gujarat,17.55
+2026-05-08,Tomato,Uttar Pradesh,16.79
+2026-05-08,Tomato,Madhya Pradesh,15.69
+2026-05-08,Potato,Maharashtra,15.99
+2026-05-08,Potato,Punjab,15.27
+2026-05-08,Potato,Gujarat,16.23
+2026-05-08,Potato,Uttar Pradesh,14.82
+2026-05-08,Potato,Madhya Pradesh,14.55
+2026-05-08,Cotton,Maharashtra,65.29
+2026-05-08,Cotton,Punjab,64.2
+2026-05-08,Cotton,Gujarat,64.07
+2026-05-08,Cotton,Uttar Pradesh,61.26
+2026-05-08,Cotton,Madhya Pradesh,59.6
+2026-05-08,Soybean,Maharashtra,44.01
+2026-05-08,Soybean,Punjab,42.96
+2026-05-08,Soybean,Gujarat,42.85
+2026-05-08,Soybean,Uttar Pradesh,41.09
+2026-05-08,Soybean,Madhya Pradesh,39.25
+2026-05-09,Wheat,Maharashtra,23.71
+2026-05-09,Wheat,Punjab,22.71
+2026-05-09,Wheat,Gujarat,23.33
+2026-05-09,Wheat,Uttar Pradesh,22.11
+2026-05-09,Wheat,Madhya Pradesh,21.98
+2026-05-09,Rice,Maharashtra,69.52
+2026-05-09,Rice,Punjab,67.85
+2026-05-09,Rice,Gujarat,68.59
+2026-05-09,Rice,Uttar Pradesh,65.77
+2026-05-09,Rice,Madhya Pradesh,63.67
+2026-05-09,Tomato,Maharashtra,17.11
+2026-05-09,Tomato,Punjab,17.2
+2026-05-09,Tomato,Gujarat,17.22
+2026-05-09,Tomato,Uttar Pradesh,16.82
+2026-05-09,Tomato,Madhya Pradesh,15.7
+2026-05-09,Potato,Maharashtra,15.99
+2026-05-09,Potato,Punjab,15.33
+2026-05-09,Potato,Gujarat,15.41
+2026-05-09,Potato,Uttar Pradesh,15.37
+2026-05-09,Potato,Madhya Pradesh,14.52
+2026-05-09,Cotton,Maharashtra,65.93
+2026-05-09,Cotton,Punjab,64.03
+2026-05-09,Cotton,Gujarat,64.62
+2026-05-09,Cotton,Uttar Pradesh,60.91
+2026-05-09,Cotton,Madhya Pradesh,59.79
+2026-05-09,Soybean,Maharashtra,43.5
+2026-05-09,Soybean,Punjab,42.13
+2026-05-09,Soybean,Gujarat,42.98
+2026-05-09,Soybean,Uttar Pradesh,40.41
+2026-05-09,Soybean,Madhya Pradesh,39.85
+2026-05-10,Wheat,Maharashtra,23.52
+2026-05-10,Wheat,Punjab,22.85
+2026-05-10,Wheat,Gujarat,23.73
+2026-05-10,Wheat,Uttar Pradesh,22.05
+2026-05-10,Wheat,Madhya Pradesh,21.19
+2026-05-10,Rice,Maharashtra,70.44
+2026-05-10,Rice,Punjab,67.54
+2026-05-10,Rice,Gujarat,69.06
+2026-05-10,Rice,Uttar Pradesh,65.01
+2026-05-10,Rice,Madhya Pradesh,62.99
+2026-05-10,Tomato,Maharashtra,17.22
+2026-05-10,Tomato,Punjab,16.65
+2026-05-10,Tomato,Gujarat,17.3
+2026-05-10,Tomato,Uttar Pradesh,15.83
+2026-05-10,Tomato,Madhya Pradesh,15.32
+2026-05-10,Potato,Maharashtra,16.4
+2026-05-10,Potato,Punjab,15.38
+2026-05-10,Potato,Gujarat,15.62
+2026-05-10,Potato,Uttar Pradesh,14.71
+2026-05-10,Potato,Madhya Pradesh,14.13
+2026-05-10,Cotton,Maharashtra,66.1
+2026-05-10,Cotton,Punjab,64.0
+2026-05-10,Cotton,Gujarat,64.85
+2026-05-10,Cotton,Uttar Pradesh,61.44
+2026-05-10,Cotton,Madhya Pradesh,59.86
+2026-05-10,Soybean,Maharashtra,43.76
+2026-05-10,Soybean,Punjab,42.1
+2026-05-10,Soybean,Gujarat,42.91
+2026-05-10,Soybean,Uttar Pradesh,41.27
+2026-05-10,Soybean,Madhya Pradesh,39.12
+2026-05-11,Wheat,Maharashtra,24.12
+2026-05-11,Wheat,Punjab,23.52
+2026-05-11,Wheat,Gujarat,23.4
+2026-05-11,Wheat,Uttar Pradesh,22.2
+2026-05-11,Wheat,Madhya Pradesh,22.03
+2026-05-11,Rice,Maharashtra,69.65
+2026-05-11,Rice,Punjab,68.06
+2026-05-11,Rice,Gujarat,68.65
+2026-05-11,Rice,Uttar Pradesh,65.6
+2026-05-11,Rice,Madhya Pradesh,63.4
+2026-05-11,Tomato,Maharashtra,17.84
+2026-05-11,Tomato,Punjab,16.51
+2026-05-11,Tomato,Gujarat,16.68
+2026-05-11,Tomato,Uttar Pradesh,16.38
+2026-05-11,Tomato,Madhya Pradesh,15.34
+2026-05-11,Potato,Maharashtra,15.89
+2026-05-11,Potato,Punjab,15.79
+2026-05-11,Potato,Gujarat,15.86
+2026-05-11,Potato,Uttar Pradesh,14.87
+2026-05-11,Potato,Madhya Pradesh,15.08
+2026-05-11,Cotton,Maharashtra,65.97
+2026-05-11,Cotton,Punjab,64.01
+2026-05-11,Cotton,Gujarat,64.79
+2026-05-11,Cotton,Uttar Pradesh,61.14
+2026-05-11,Cotton,Madhya Pradesh,59.86
+2026-05-11,Soybean,Maharashtra,44.09
+2026-05-11,Soybean,Punjab,42.63
+2026-05-11,Soybean,Gujarat,43.17
+2026-05-11,Soybean,Uttar Pradesh,41.04
+2026-05-11,Soybean,Madhya Pradesh,39.28
+2026-05-12,Wheat,Maharashtra,23.81
+2026-05-12,Wheat,Punjab,22.9
+2026-05-12,Wheat,Gujarat,23.24
+2026-05-12,Wheat,Uttar Pradesh,22.22
+2026-05-12,Wheat,Madhya Pradesh,21.5
+2026-05-12,Rice,Maharashtra,69.74
+2026-05-12,Rice,Punjab,68.06
+2026-05-12,Rice,Gujarat,68.97
+2026-05-12,Rice,Uttar Pradesh,65.34
+2026-05-12,Rice,Madhya Pradesh,63.11
+2026-05-12,Tomato,Maharashtra,17.81
+2026-05-12,Tomato,Punjab,16.46
+2026-05-12,Tomato,Gujarat,17.39
+2026-05-12,Tomato,Uttar Pradesh,15.82
+2026-05-12,Tomato,Madhya Pradesh,15.33
+2026-05-12,Potato,Maharashtra,16.37
+2026-05-12,Potato,Punjab,15.98
+2026-05-12,Potato,Gujarat,15.88
+2026-05-12,Potato,Uttar Pradesh,15.14
+2026-05-12,Potato,Madhya Pradesh,14.65
+2026-05-12,Cotton,Maharashtra,65.85
+2026-05-12,Cotton,Punjab,63.76
+2026-05-12,Cotton,Gujarat,64.62
+2026-05-12,Cotton,Uttar Pradesh,61.79
+2026-05-12,Cotton,Madhya Pradesh,59.99
+2026-05-12,Soybean,Maharashtra,44.09
+2026-05-12,Soybean,Punjab,42.69
+2026-05-12,Soybean,Gujarat,43.36
+2026-05-12,Soybean,Uttar Pradesh,40.91
+2026-05-12,Soybean,Madhya Pradesh,39.41
+2026-05-13,Wheat,Maharashtra,23.95
+2026-05-13,Wheat,Punjab,22.91
+2026-05-13,Wheat,Gujarat,23.58
+2026-05-13,Wheat,Uttar Pradesh,22.01
+2026-05-13,Wheat,Madhya Pradesh,21.21
+2026-05-13,Rice,Maharashtra,70.54
+2026-05-13,Rice,Punjab,68.05
+2026-05-13,Rice,Gujarat,69.12
+2026-05-13,Rice,Uttar Pradesh,65.59
+2026-05-13,Rice,Madhya Pradesh,63.81
+2026-05-13,Tomato,Maharashtra,17.69
+2026-05-13,Tomato,Punjab,17.32
+2026-05-13,Tomato,Gujarat,17.33
+2026-05-13,Tomato,Uttar Pradesh,16.3
+2026-05-13,Tomato,Madhya Pradesh,15.84
+2026-05-13,Potato,Maharashtra,15.66
+2026-05-13,Potato,Punjab,16.11
+2026-05-13,Potato,Gujarat,16.16
+2026-05-13,Potato,Uttar Pradesh,14.83
+2026-05-13,Potato,Madhya Pradesh,14.28
+2026-05-13,Cotton,Maharashtra,66.31
+2026-05-13,Cotton,Punjab,64.03
+2026-05-13,Cotton,Gujarat,64.69
+2026-05-13,Cotton,Uttar Pradesh,61.21
+2026-05-13,Cotton,Madhya Pradesh,60.18
+2026-05-13,Soybean,Maharashtra,43.78
+2026-05-13,Soybean,Punjab,42.36
+2026-05-13,Soybean,Gujarat,42.52
+2026-05-13,Soybean,Uttar Pradesh,40.93
+2026-05-13,Soybean,Madhya Pradesh,39.08
+2026-05-14,Wheat,Maharashtra,24.14
+2026-05-14,Wheat,Punjab,22.93
+2026-05-14,Wheat,Gujarat,23.36
+2026-05-14,Wheat,Uttar Pradesh,22.15
+2026-05-14,Wheat,Madhya Pradesh,21.49
+2026-05-14,Rice,Maharashtra,70.47
+2026-05-14,Rice,Punjab,68.51
+2026-05-14,Rice,Gujarat,68.97
+2026-05-14,Rice,Uttar Pradesh,65.15
+2026-05-14,Rice,Madhya Pradesh,63.11
+2026-05-14,Tomato,Maharashtra,16.96
+2026-05-14,Tomato,Punjab,16.93
+2026-05-14,Tomato,Gujarat,17.15
+2026-05-14,Tomato,Uttar Pradesh,15.92
+2026-05-14,Tomato,Madhya Pradesh,15.82
+2026-05-14,Potato,Maharashtra,16.13
+2026-05-14,Potato,Punjab,15.63
+2026-05-14,Potato,Gujarat,15.61
+2026-05-14,Potato,Uttar Pradesh,15.33
+2026-05-14,Potato,Madhya Pradesh,14.22
+2026-05-14,Cotton,Maharashtra,66.12
+2026-05-14,Cotton,Punjab,64.08
+2026-05-14,Cotton,Gujarat,65.11
+2026-05-14,Cotton,Uttar Pradesh,61.77
+2026-05-14,Cotton,Madhya Pradesh,60.06
+2026-05-14,Soybean,Maharashtra,43.25
+2026-05-14,Soybean,Punjab,42.35
+2026-05-14,Soybean,Gujarat,42.97
+2026-05-14,Soybean,Uttar Pradesh,40.3
+2026-05-14,Soybean,Madhya Pradesh,39.34
+2026-05-15,Wheat,Maharashtra,23.63
+2026-05-15,Wheat,Punjab,22.87
+2026-05-15,Wheat,Gujarat,23.22
+2026-05-15,Wheat,Uttar Pradesh,22.15
+2026-05-15,Wheat,Madhya Pradesh,21.15
+2026-05-15,Rice,Maharashtra,70.54
+2026-05-15,Rice,Punjab,67.96
+2026-05-15,Rice,Gujarat,68.84
+2026-05-15,Rice,Uttar Pradesh,65.81
+2026-05-15,Rice,Madhya Pradesh,63.6
+2026-05-15,Tomato,Maharashtra,17.6
+2026-05-15,Tomato,Punjab,17.08
+2026-05-15,Tomato,Gujarat,16.51
+2026-05-15,Tomato,Uttar Pradesh,16.47
+2026-05-15,Tomato,Madhya Pradesh,15.16
+2026-05-15,Potato,Maharashtra,15.68
+2026-05-15,Potato,Punjab,16.12
+2026-05-15,Potato,Gujarat,16.21
+2026-05-15,Potato,Uttar Pradesh,15.16
+2026-05-15,Potato,Madhya Pradesh,14.69
+2026-05-15,Cotton,Maharashtra,66.49
+2026-05-15,Cotton,Punjab,64.3
+2026-05-15,Cotton,Gujarat,64.63
+2026-05-15,Cotton,Uttar Pradesh,61.38
+2026-05-15,Cotton,Madhya Pradesh,59.79
+2026-05-15,Soybean,Maharashtra,43.99
+2026-05-15,Soybean,Punjab,42.56
+2026-05-15,Soybean,Gujarat,43.19
+2026-05-15,Soybean,Uttar Pradesh,41.2
+2026-05-15,Soybean,Madhya Pradesh,39.12
+2026-05-16,Wheat,Maharashtra,24.28
+2026-05-16,Wheat,Punjab,23.0
+2026-05-16,Wheat,Gujarat,23.57
+2026-05-16,Wheat,Uttar Pradesh,22.37
+2026-05-16,Wheat,Madhya Pradesh,21.56
+2026-05-16,Rice,Maharashtra,70.16
+2026-05-16,Rice,Punjab,68.18
+2026-05-16,Rice,Gujarat,68.84
+2026-05-16,Rice,Uttar Pradesh,65.33
+2026-05-16,Rice,Madhya Pradesh,63.66
+2026-05-16,Tomato,Maharashtra,16.83
+2026-05-16,Tomato,Punjab,16.74
+2026-05-16,Tomato,Gujarat,17.3
+2026-05-16,Tomato,Uttar Pradesh,15.92
+2026-05-16,Tomato,Madhya Pradesh,15.81
+2026-05-16,Potato,Maharashtra,16.49
+2026-05-16,Potato,Punjab,16.02
+2026-05-16,Potato,Gujarat,15.6
+2026-05-16,Potato,Uttar Pradesh,14.74
+2026-05-16,Potato,Madhya Pradesh,14.33
+2026-05-16,Cotton,Maharashtra,66.46
+2026-05-16,Cotton,Punjab,64.72
+2026-05-16,Cotton,Gujarat,65.25
+2026-05-16,Cotton,Uttar Pradesh,61.61
+2026-05-16,Cotton,Madhya Pradesh,60.31
+2026-05-16,Soybean,Maharashtra,43.67
+2026-05-16,Soybean,Punjab,42.69
+2026-05-16,Soybean,Gujarat,43.11
+2026-05-16,Soybean,Uttar Pradesh,40.72
+2026-05-16,Soybean,Madhya Pradesh,39.94
+2026-05-17,Wheat,Maharashtra,24.03
+2026-05-17,Wheat,Punjab,23.41
+2026-05-17,Wheat,Gujarat,23.63
+2026-05-17,Wheat,Uttar Pradesh,22.73
+2026-05-17,Wheat,Madhya Pradesh,21.81
+2026-05-17,Rice,Maharashtra,70.05
+2026-05-17,Rice,Punjab,67.96
+2026-05-17,Rice,Gujarat,69.0
+2026-05-17,Rice,Uttar Pradesh,65.51
+2026-05-17,Rice,Madhya Pradesh,63.47
+2026-05-17,Tomato,Maharashtra,16.73
+2026-05-17,Tomato,Punjab,16.69
+2026-05-17,Tomato,Gujarat,16.66
+2026-05-17,Tomato,Uttar Pradesh,15.98
+2026-05-17,Tomato,Madhya Pradesh,15.1
+2026-05-17,Potato,Maharashtra,16.51
+2026-05-17,Potato,Punjab,15.29
+2026-05-17,Potato,Gujarat,16.24
+2026-05-17,Potato,Uttar Pradesh,15.46
+2026-05-17,Potato,Madhya Pradesh,14.75
+2026-05-17,Cotton,Maharashtra,66.45
+2026-05-17,Cotton,Punjab,64.51
+2026-05-17,Cotton,Gujarat,65.23
+2026-05-17,Cotton,Uttar Pradesh,62.31
+2026-05-17,Cotton,Madhya Pradesh,60.51
+2026-05-17,Soybean,Maharashtra,43.62
+2026-05-17,Soybean,Punjab,42.73
+2026-05-17,Soybean,Gujarat,42.99
+2026-05-17,Soybean,Uttar Pradesh,40.58
+2026-05-17,Soybean,Madhya Pradesh,39.49
+2026-05-18,Wheat,Maharashtra,23.63
+2026-05-18,Wheat,Punjab,22.86
+2026-05-18,Wheat,Gujarat,23.13
+2026-05-18,Wheat,Uttar Pradesh,22.78
+2026-05-18,Wheat,Madhya Pradesh,21.54
+2026-05-18,Rice,Maharashtra,70.67
+2026-05-18,Rice,Punjab,68.45
+2026-05-18,Rice,Gujarat,68.79
+2026-05-18,Rice,Uttar Pradesh,65.51
+2026-05-18,Rice,Madhya Pradesh,63.68
+2026-05-18,Tomato,Maharashtra,17.08
+2026-05-18,Tomato,Punjab,16.67
+2026-05-18,Tomato,Gujarat,16.47
+2026-05-18,Tomato,Uttar Pradesh,15.87
+2026-05-18,Tomato,Madhya Pradesh,15.29
+2026-05-18,Potato,Maharashtra,16.1
+2026-05-18,Potato,Punjab,15.57
+2026-05-18,Potato,Gujarat,15.98
+2026-05-18,Potato,Uttar Pradesh,15.4
+2026-05-18,Potato,Madhya Pradesh,14.8
+2026-05-18,Cotton,Maharashtra,66.09
+2026-05-18,Cotton,Punjab,64.22
+2026-05-18,Cotton,Gujarat,65.44
+2026-05-18,Cotton,Uttar Pradesh,61.88
+2026-05-18,Cotton,Madhya Pradesh,60.42
+2026-05-18,Soybean,Maharashtra,43.82
+2026-05-18,Soybean,Punjab,42.82
+2026-05-18,Soybean,Gujarat,43.2
+2026-05-18,Soybean,Uttar Pradesh,40.58
+2026-05-18,Soybean,Madhya Pradesh,39.58
+2026-05-19,Wheat,Maharashtra,23.64
+2026-05-19,Wheat,Punjab,23.17
+2026-05-19,Wheat,Gujarat,24.01
+2026-05-19,Wheat,Uttar Pradesh,22.6
+2026-05-19,Wheat,Madhya Pradesh,21.61
+2026-05-19,Rice,Maharashtra,70.6
+2026-05-19,Rice,Punjab,68.93
+2026-05-19,Rice,Gujarat,68.97
+2026-05-19,Rice,Uttar Pradesh,65.68
+2026-05-19,Rice,Madhya Pradesh,64.08
+2026-05-19,Tomato,Maharashtra,17.41
+2026-05-19,Tomato,Punjab,16.78
+2026-05-19,Tomato,Gujarat,17.1
+2026-05-19,Tomato,Uttar Pradesh,16.19
+2026-05-19,Tomato,Madhya Pradesh,15.65
+2026-05-19,Potato,Maharashtra,16.23
+2026-05-19,Potato,Punjab,15.88
+2026-05-19,Potato,Gujarat,15.82
+2026-05-19,Potato,Uttar Pradesh,14.98
+2026-05-19,Potato,Madhya Pradesh,14.52
+2026-05-19,Cotton,Maharashtra,66.29
+2026-05-19,Cotton,Punjab,64.42
+2026-05-19,Cotton,Gujarat,65.79
+2026-05-19,Cotton,Uttar Pradesh,62.16
+2026-05-19,Cotton,Madhya Pradesh,59.99
+2026-05-19,Soybean,Maharashtra,43.29
+2026-05-19,Soybean,Punjab,41.98
+2026-05-19,Soybean,Gujarat,43.16
+2026-05-19,Soybean,Uttar Pradesh,40.34
+2026-05-19,Soybean,Madhya Pradesh,39.76
+2026-05-20,Wheat,Maharashtra,24.36
+2026-05-20,Wheat,Punjab,23.72
+2026-05-20,Wheat,Gujarat,23.1
+2026-05-20,Wheat,Uttar Pradesh,22.26
+2026-05-20,Wheat,Madhya Pradesh,22.0
+2026-05-20,Rice,Maharashtra,70.19
+2026-05-20,Rice,Punjab,68.42
+2026-05-20,Rice,Gujarat,68.88
+2026-05-20,Rice,Uttar Pradesh,66.19
+2026-05-20,Rice,Madhya Pradesh,64.11
+2026-05-20,Tomato,Maharashtra,17.36
+2026-05-20,Tomato,Punjab,16.23
+2026-05-20,Tomato,Gujarat,16.66
+2026-05-20,Tomato,Uttar Pradesh,15.83
+2026-05-20,Tomato,Madhya Pradesh,15.6
+2026-05-20,Potato,Maharashtra,15.95
+2026-05-20,Potato,Punjab,15.69
+2026-05-20,Potato,Gujarat,15.69
+2026-05-20,Potato,Uttar Pradesh,15.38
+2026-05-20,Potato,Madhya Pradesh,14.62
+2026-05-20,Cotton,Maharashtra,66.73
+2026-05-20,Cotton,Punjab,64.6
+2026-05-20,Cotton,Gujarat,65.73
+2026-05-20,Cotton,Uttar Pradesh,62.22
+2026-05-20,Cotton,Madhya Pradesh,60.68
+2026-05-20,Soybean,Maharashtra,43.51
+2026-05-20,Soybean,Punjab,42.84
+2026-05-20,Soybean,Gujarat,43.29
+2026-05-20,Soybean,Uttar Pradesh,40.69
+2026-05-20,Soybean,Madhya Pradesh,39.26
+2026-05-21,Wheat,Maharashtra,23.93
+2026-05-21,Wheat,Punjab,23.39
+2026-05-21,Wheat,Gujarat,24.05
+2026-05-21,Wheat,Uttar Pradesh,22.76
+2026-05-21,Wheat,Madhya Pradesh,22.06
+2026-05-21,Rice,Maharashtra,70.25
+2026-05-21,Rice,Punjab,68.35
+2026-05-21,Rice,Gujarat,69.41
+2026-05-21,Rice,Uttar Pradesh,66.28
+2026-05-21,Rice,Madhya Pradesh,63.94
+2026-05-21,Tomato,Maharashtra,16.61
+2026-05-21,Tomato,Punjab,16.87
+2026-05-21,Tomato,Gujarat,17.04
+2026-05-21,Tomato,Uttar Pradesh,15.66
+2026-05-21,Tomato,Madhya Pradesh,15.65
+2026-05-21,Potato,Maharashtra,16.0
+2026-05-21,Potato,Punjab,16.16
+2026-05-21,Potato,Gujarat,15.56
+2026-05-21,Potato,Uttar Pradesh,15.08
+2026-05-21,Potato,Madhya Pradesh,15.12
+2026-05-21,Cotton,Maharashtra,66.5
+2026-05-21,Cotton,Punjab,64.82
+2026-05-21,Cotton,Gujarat,65.36
+2026-05-21,Cotton,Uttar Pradesh,61.85
+2026-05-21,Cotton,Madhya Pradesh,59.97
+2026-05-21,Soybean,Maharashtra,43.63
+2026-05-21,Soybean,Punjab,42.12
+2026-05-21,Soybean,Gujarat,43.29
+2026-05-21,Soybean,Uttar Pradesh,40.59
+2026-05-21,Soybean,Madhya Pradesh,39.0
+2026-05-22,Wheat,Maharashtra,24.5
+2026-05-22,Wheat,Punjab,23.72
+2026-05-22,Wheat,Gujarat,23.76
+2026-05-22,Wheat,Uttar Pradesh,22.75
+2026-05-22,Wheat,Madhya Pradesh,21.41
+2026-05-22,Rice,Maharashtra,70.45
+2026-05-22,Rice,Punjab,68.98
+2026-05-22,Rice,Gujarat,69.52
+2026-05-22,Rice,Uttar Pradesh,65.59
+2026-05-22,Rice,Madhya Pradesh,64.14
+2026-05-22,Tomato,Maharashtra,16.92
+2026-05-22,Tomato,Punjab,15.99
+2026-05-22,Tomato,Gujarat,16.22
+2026-05-22,Tomato,Uttar Pradesh,15.59
+2026-05-22,Tomato,Madhya Pradesh,15.69
+2026-05-22,Potato,Maharashtra,16.28
+2026-05-22,Potato,Punjab,16.0
+2026-05-22,Potato,Gujarat,15.95
+2026-05-22,Potato,Uttar Pradesh,14.76
+2026-05-22,Potato,Madhya Pradesh,14.48
+2026-05-22,Cotton,Maharashtra,66.67
+2026-05-22,Cotton,Punjab,64.5
+2026-05-22,Cotton,Gujarat,65.51
+2026-05-22,Cotton,Uttar Pradesh,62.7
+2026-05-22,Cotton,Madhya Pradesh,60.45
+2026-05-22,Soybean,Maharashtra,43.23
+2026-05-22,Soybean,Punjab,42.78
+2026-05-22,Soybean,Gujarat,42.88
+2026-05-22,Soybean,Uttar Pradesh,40.23
+2026-05-22,Soybean,Madhya Pradesh,39.48
+2026-05-23,Wheat,Maharashtra,23.83
+2026-05-23,Wheat,Punjab,23.04
+2026-05-23,Wheat,Gujarat,23.56
+2026-05-23,Wheat,Uttar Pradesh,22.6
+2026-05-23,Wheat,Madhya Pradesh,21.53
+2026-05-23,Rice,Maharashtra,70.63
+2026-05-23,Rice,Punjab,68.86
+2026-05-23,Rice,Gujarat,68.96
+2026-05-23,Rice,Uttar Pradesh,66.48
+2026-05-23,Rice,Madhya Pradesh,63.55
+2026-05-23,Tomato,Maharashtra,16.95
+2026-05-23,Tomato,Punjab,16.45
+2026-05-23,Tomato,Gujarat,17.09
+2026-05-23,Tomato,Uttar Pradesh,15.85
+2026-05-23,Tomato,Madhya Pradesh,15.2
+2026-05-23,Potato,Maharashtra,16.21
+2026-05-23,Potato,Punjab,15.92
+2026-05-23,Potato,Gujarat,16.42
+2026-05-23,Potato,Uttar Pradesh,14.91
+2026-05-23,Potato,Madhya Pradesh,14.21
+2026-05-23,Cotton,Maharashtra,67.24
+2026-05-23,Cotton,Punjab,64.88
+2026-05-23,Cotton,Gujarat,65.91
+2026-05-23,Cotton,Uttar Pradesh,62.61
+2026-05-23,Cotton,Madhya Pradesh,60.84
+2026-05-23,Soybean,Maharashtra,43.84
+2026-05-23,Soybean,Punjab,42.19
+2026-05-23,Soybean,Gujarat,42.32
+2026-05-23,Soybean,Uttar Pradesh,40.75
+2026-05-23,Soybean,Madhya Pradesh,39.77
+2026-05-24,Wheat,Maharashtra,23.78
+2026-05-24,Wheat,Punjab,23.7
+2026-05-24,Wheat,Gujarat,23.61
+2026-05-24,Wheat,Uttar Pradesh,22.7
+2026-05-24,Wheat,Madhya Pradesh,21.94
+2026-05-24,Rice,Maharashtra,71.08
+2026-05-24,Rice,Punjab,68.31
+2026-05-24,Rice,Gujarat,69.7
+2026-05-24,Rice,Uttar Pradesh,66.01
+2026-05-24,Rice,Madhya Pradesh,63.82
+2026-05-24,Tomato,Maharashtra,16.43
+2026-05-24,Tomato,Punjab,16.1
+2026-05-24,Tomato,Gujarat,16.1
+2026-05-24,Tomato,Uttar Pradesh,16.19
+2026-05-24,Tomato,Madhya Pradesh,15.29
+2026-05-24,Potato,Maharashtra,16.74
+2026-05-24,Potato,Punjab,15.83
+2026-05-24,Potato,Gujarat,15.7
+2026-05-24,Potato,Uttar Pradesh,15.42
+2026-05-24,Potato,Madhya Pradesh,14.4
+2026-05-24,Cotton,Maharashtra,66.89
+2026-05-24,Cotton,Punjab,65.4
+2026-05-24,Cotton,Gujarat,66.12
+2026-05-24,Cotton,Uttar Pradesh,62.4
+2026-05-24,Cotton,Madhya Pradesh,60.27
+2026-05-24,Soybean,Maharashtra,43.46
+2026-05-24,Soybean,Punjab,42.74
+2026-05-24,Soybean,Gujarat,43.01
+2026-05-24,Soybean,Uttar Pradesh,41.08
+2026-05-24,Soybean,Madhya Pradesh,39.33
+2026-05-25,Wheat,Maharashtra,24.6
+2026-05-25,Wheat,Punjab,23.44
+2026-05-25,Wheat,Gujarat,23.67
+2026-05-25,Wheat,Uttar Pradesh,22.94
+2026-05-25,Wheat,Madhya Pradesh,21.85
+2026-05-25,Rice,Maharashtra,71.12
+2026-05-25,Rice,Punjab,69.03
+2026-05-25,Rice,Gujarat,69.05
+2026-05-25,Rice,Uttar Pradesh,66.2
+2026-05-25,Rice,Madhya Pradesh,64.4
+2026-05-25,Tomato,Maharashtra,16.89
+2026-05-25,Tomato,Punjab,16.18
+2026-05-25,Tomato,Gujarat,16.1
+2026-05-25,Tomato,Uttar Pradesh,15.88
+2026-05-25,Tomato,Madhya Pradesh,15.04
+2026-05-25,Potato,Maharashtra,16.37
+2026-05-25,Potato,Punjab,15.73
+2026-05-25,Potato,Gujarat,16.14
+2026-05-25,Potato,Uttar Pradesh,15.03
+2026-05-25,Potato,Madhya Pradesh,14.26
+2026-05-25,Cotton,Maharashtra,67.49
+2026-05-25,Cotton,Punjab,65.05
+2026-05-25,Cotton,Gujarat,66.34
+2026-05-25,Cotton,Uttar Pradesh,62.42
+2026-05-25,Cotton,Madhya Pradesh,61.2
+2026-05-25,Soybean,Maharashtra,44.03
+2026-05-25,Soybean,Punjab,41.92
+2026-05-25,Soybean,Gujarat,42.89
+2026-05-25,Soybean,Uttar Pradesh,40.54
+2026-05-25,Soybean,Madhya Pradesh,39.74
+2026-05-26,Wheat,Maharashtra,24.33
+2026-05-26,Wheat,Punjab,23.91
+2026-05-26,Wheat,Gujarat,23.33
+2026-05-26,Wheat,Uttar Pradesh,22.65
+2026-05-26,Wheat,Madhya Pradesh,22.13
+2026-05-26,Rice,Maharashtra,70.41
+2026-05-26,Rice,Punjab,68.42
+2026-05-26,Rice,Gujarat,69.8
+2026-05-26,Rice,Uttar Pradesh,66.02
+2026-05-26,Rice,Madhya Pradesh,64.01
+2026-05-26,Tomato,Maharashtra,16.87
+2026-05-26,Tomato,Punjab,16.43
+2026-05-26,Tomato,Gujarat,16.66
+2026-05-26,Tomato,Uttar Pradesh,16.13
+2026-05-26,Tomato,Madhya Pradesh,15.07
+2026-05-26,Potato,Maharashtra,16.54
+2026-05-26,Potato,Punjab,15.88
+2026-05-26,Potato,Gujarat,15.99
+2026-05-26,Potato,Uttar Pradesh,15.09
+2026-05-26,Potato,Madhya Pradesh,14.87
+2026-05-26,Cotton,Maharashtra,66.95
+2026-05-26,Cotton,Punjab,64.89
+2026-05-26,Cotton,Gujarat,66.16
+2026-05-26,Cotton,Uttar Pradesh,62.72
+2026-05-26,Cotton,Madhya Pradesh,60.69
+2026-05-26,Soybean,Maharashtra,43.64
+2026-05-26,Soybean,Punjab,42.09
+2026-05-26,Soybean,Gujarat,42.51
+2026-05-26,Soybean,Uttar Pradesh,40.62
+2026-05-26,Soybean,Madhya Pradesh,39.92
+2026-05-27,Wheat,Maharashtra,23.96
+2026-05-27,Wheat,Punjab,23.9
+2026-05-27,Wheat,Gujarat,23.7
+2026-05-27,Wheat,Uttar Pradesh,22.18
+2026-05-27,Wheat,Madhya Pradesh,22.22
+2026-05-27,Rice,Maharashtra,70.88
+2026-05-27,Rice,Punjab,69.3
+2026-05-27,Rice,Gujarat,69.52
+2026-05-27,Rice,Uttar Pradesh,65.79
+2026-05-27,Rice,Madhya Pradesh,64.35
+2026-05-27,Tomato,Maharashtra,17.1
+2026-05-27,Tomato,Punjab,16.1
+2026-05-27,Tomato,Gujarat,16.29
+2026-05-27,Tomato,Uttar Pradesh,15.21
+2026-05-27,Tomato,Madhya Pradesh,15.2
+2026-05-27,Potato,Maharashtra,16.68
+2026-05-27,Potato,Punjab,16.17
+2026-05-27,Potato,Gujarat,16.19
+2026-05-27,Potato,Uttar Pradesh,15.63
+2026-05-27,Potato,Madhya Pradesh,14.87
+2026-05-27,Cotton,Maharashtra,67.58
+2026-05-27,Cotton,Punjab,65.37
+2026-05-27,Cotton,Gujarat,65.62
+2026-05-27,Cotton,Uttar Pradesh,62.5
+2026-05-27,Cotton,Madhya Pradesh,60.51
+2026-05-27,Soybean,Maharashtra,43.85
+2026-05-27,Soybean,Punjab,41.85
+2026-05-27,Soybean,Gujarat,42.79
+2026-05-27,Soybean,Uttar Pradesh,40.53
+2026-05-27,Soybean,Madhya Pradesh,39.72
+2026-05-28,Wheat,Maharashtra,24.24
+2026-05-28,Wheat,Punjab,23.61
+2026-05-28,Wheat,Gujarat,23.32
+2026-05-28,Wheat,Uttar Pradesh,22.39
+2026-05-28,Wheat,Madhya Pradesh,22.39
+2026-05-28,Rice,Maharashtra,71.2
+2026-05-28,Rice,Punjab,68.98
+2026-05-28,Rice,Gujarat,69.9
+2026-05-28,Rice,Uttar Pradesh,66.57
+2026-05-28,Rice,Madhya Pradesh,63.79
+2026-05-28,Tomato,Maharashtra,17.19
+2026-05-28,Tomato,Punjab,16.38
+2026-05-28,Tomato,Gujarat,16.35
+2026-05-28,Tomato,Uttar Pradesh,15.78
+2026-05-28,Tomato,Madhya Pradesh,14.97
+2026-05-28,Potato,Maharashtra,16.67
+2026-05-28,Potato,Punjab,16.11
+2026-05-28,Potato,Gujarat,16.13
+2026-05-28,Potato,Uttar Pradesh,14.89
+2026-05-28,Potato,Madhya Pradesh,15.21
+2026-05-28,Cotton,Maharashtra,67.3
+2026-05-28,Cotton,Punjab,65.85
+2026-05-28,Cotton,Gujarat,65.64
+2026-05-28,Cotton,Uttar Pradesh,62.5
+2026-05-28,Cotton,Madhya Pradesh,60.61
+2026-05-28,Soybean,Maharashtra,43.22
+2026-05-28,Soybean,Punjab,42.13
+2026-05-28,Soybean,Gujarat,42.93
+2026-05-28,Soybean,Uttar Pradesh,40.5
+2026-05-28,Soybean,Madhya Pradesh,39.85
+2026-05-29,Wheat,Maharashtra,24.61
+2026-05-29,Wheat,Punjab,23.87
+2026-05-29,Wheat,Gujarat,23.5
+2026-05-29,Wheat,Uttar Pradesh,22.73
+2026-05-29,Wheat,Madhya Pradesh,21.96
+2026-05-29,Rice,Maharashtra,70.66
+2026-05-29,Rice,Punjab,68.81
+2026-05-29,Rice,Gujarat,69.71
+2026-05-29,Rice,Uttar Pradesh,66.3
+2026-05-29,Rice,Madhya Pradesh,63.94
+2026-05-29,Tomato,Maharashtra,17.12
+2026-05-29,Tomato,Punjab,15.85
+2026-05-29,Tomato,Gujarat,16.52
+2026-05-29,Tomato,Uttar Pradesh,15.78
+2026-05-29,Tomato,Madhya Pradesh,15.19
+2026-05-29,Potato,Maharashtra,16.65
+2026-05-29,Potato,Punjab,15.9
+2026-05-29,Potato,Gujarat,16.32
+2026-05-29,Potato,Uttar Pradesh,14.75
+2026-05-29,Potato,Madhya Pradesh,14.3
+2026-05-29,Cotton,Maharashtra,67.59
+2026-05-29,Cotton,Punjab,65.6
+2026-05-29,Cotton,Gujarat,66.32
+2026-05-29,Cotton,Uttar Pradesh,63.22
+2026-05-29,Cotton,Madhya Pradesh,60.94
+2026-05-29,Soybean,Maharashtra,43.68
+2026-05-29,Soybean,Punjab,42.3
+2026-05-29,Soybean,Gujarat,42.84
+2026-05-29,Soybean,Uttar Pradesh,40.43
+2026-05-29,Soybean,Madhya Pradesh,39.85
+2026-05-30,Wheat,Maharashtra,24.22
+2026-05-30,Wheat,Punjab,23.85
+2026-05-30,Wheat,Gujarat,23.96
+2026-05-30,Wheat,Uttar Pradesh,22.42
+2026-05-30,Wheat,Madhya Pradesh,21.5
+2026-05-30,Rice,Maharashtra,70.64
+2026-05-30,Rice,Punjab,68.99
+2026-05-30,Rice,Gujarat,69.72
+2026-05-30,Rice,Uttar Pradesh,66.05
+2026-05-30,Rice,Madhya Pradesh,64.42
+2026-05-30,Tomato,Maharashtra,16.44
+2026-05-30,Tomato,Punjab,16.38
+2026-05-30,Tomato,Gujarat,16.55
+2026-05-30,Tomato,Uttar Pradesh,15.88
+2026-05-30,Tomato,Madhya Pradesh,15.52
+2026-05-30,Potato,Maharashtra,15.95
+2026-05-30,Potato,Punjab,15.72
+2026-05-30,Potato,Gujarat,16.07
+2026-05-30,Potato,Uttar Pradesh,15.05
+2026-05-30,Potato,Madhya Pradesh,14.73
+2026-05-30,Cotton,Maharashtra,67.3
+2026-05-30,Cotton,Punjab,65.35
+2026-05-30,Cotton,Gujarat,65.85
+2026-05-30,Cotton,Uttar Pradesh,62.82
+2026-05-30,Cotton,Madhya Pradesh,60.99
+2026-05-30,Soybean,Maharashtra,43.65
+2026-05-30,Soybean,Punjab,42.04
+2026-05-30,Soybean,Gujarat,43.07
+2026-05-30,Soybean,Uttar Pradesh,40.29
+2026-05-30,Soybean,Madhya Pradesh,39.21
+2026-05-31,Wheat,Maharashtra,24.33
+2026-05-31,Wheat,Punjab,23.37
+2026-05-31,Wheat,Gujarat,24.06
+2026-05-31,Wheat,Uttar Pradesh,22.64
+2026-05-31,Wheat,Madhya Pradesh,21.96
+2026-05-31,Rice,Maharashtra,71.14
+2026-05-31,Rice,Punjab,68.91
+2026-05-31,Rice,Gujarat,69.31
+2026-05-31,Rice,Uttar Pradesh,66.84
+2026-05-31,Rice,Madhya Pradesh,64.37
+2026-05-31,Tomato,Maharashtra,17.06
+2026-05-31,Tomato,Punjab,15.83
+2026-05-31,Tomato,Gujarat,16.13
+2026-05-31,Tomato,Uttar Pradesh,15.03
+2026-05-31,Tomato,Madhya Pradesh,15.0
+2026-05-31,Potato,Maharashtra,16.71
+2026-05-31,Potato,Punjab,16.02
+2026-05-31,Potato,Gujarat,15.99
+2026-05-31,Potato,Uttar Pradesh,15.28
+2026-05-31,Potato,Madhya Pradesh,15.12
+2026-05-31,Cotton,Maharashtra,67.55
+2026-05-31,Cotton,Punjab,66.07
+2026-05-31,Cotton,Gujarat,66.56
+2026-05-31,Cotton,Uttar Pradesh,63.38
+2026-05-31,Cotton,Madhya Pradesh,61.05
+2026-05-31,Soybean,Maharashtra,43.42
+2026-05-31,Soybean,Punjab,42.35
+2026-05-31,Soybean,Gujarat,42.39
+2026-05-31,Soybean,Uttar Pradesh,40.67
+2026-05-31,Soybean,Madhya Pradesh,38.95
+2026-06-01,Wheat,Maharashtra,24.28
+2026-06-01,Wheat,Punjab,23.85
+2026-06-01,Wheat,Gujarat,23.59
+2026-06-01,Wheat,Uttar Pradesh,23.15
+2026-06-01,Wheat,Madhya Pradesh,22.14
+2026-06-01,Rice,Maharashtra,70.81
+2026-06-01,Rice,Punjab,69.63
+2026-06-01,Rice,Gujarat,69.73
+2026-06-01,Rice,Uttar Pradesh,66.74
+2026-06-01,Rice,Madhya Pradesh,64.25
+2026-06-01,Tomato,Maharashtra,16.99
+2026-06-01,Tomato,Punjab,16.33
+2026-06-01,Tomato,Gujarat,15.93
+2026-06-01,Tomato,Uttar Pradesh,15.45
+2026-06-01,Tomato,Madhya Pradesh,14.97
+2026-06-01,Potato,Maharashtra,15.88
+2026-06-01,Potato,Punjab,15.51
+2026-06-01,Potato,Gujarat,15.86
+2026-06-01,Potato,Uttar Pradesh,15.22
+2026-06-01,Potato,Madhya Pradesh,14.74
+2026-06-01,Cotton,Maharashtra,67.81
+2026-06-01,Cotton,Punjab,65.79
+2026-06-01,Cotton,Gujarat,66.24
+2026-06-01,Cotton,Uttar Pradesh,63.3
+2026-06-01,Cotton,Madhya Pradesh,60.92
+2026-06-01,Soybean,Maharashtra,44.0
+2026-06-01,Soybean,Punjab,42.51
+2026-06-01,Soybean,Gujarat,42.48
+2026-06-01,Soybean,Uttar Pradesh,40.45
+2026-06-01,Soybean,Madhya Pradesh,39.7
+2026-06-02,Wheat,Maharashtra,24.33
+2026-06-02,Wheat,Punjab,23.81
+2026-06-02,Wheat,Gujarat,23.63
+2026-06-02,Wheat,Uttar Pradesh,22.99
+2026-06-02,Wheat,Madhya Pradesh,21.85
+2026-06-02,Rice,Maharashtra,71.42
+2026-06-02,Rice,Punjab,69.69
+2026-06-02,Rice,Gujarat,69.97
+2026-06-02,Rice,Uttar Pradesh,66.79
+2026-06-02,Rice,Madhya Pradesh,64.68
+2026-06-02,Tomato,Maharashtra,16.69
+2026-06-02,Tomato,Punjab,15.56
+2026-06-02,Tomato,Gujarat,16.17
+2026-06-02,Tomato,Uttar Pradesh,15.87
+2026-06-02,Tomato,Madhya Pradesh,15.22
+2026-06-02,Potato,Maharashtra,16.62
+2026-06-02,Potato,Punjab,15.96
+2026-06-02,Potato,Gujarat,16.26
+2026-06-02,Potato,Uttar Pradesh,15.34
+2026-06-02,Potato,Madhya Pradesh,14.46
+2026-06-02,Cotton,Maharashtra,67.92
+2026-06-02,Cotton,Punjab,65.97
+2026-06-02,Cotton,Gujarat,66.84
+2026-06-02,Cotton,Uttar Pradesh,62.92
+2026-06-02,Cotton,Madhya Pradesh,61.51
+2026-06-02,Soybean,Maharashtra,43.03
+2026-06-02,Soybean,Punjab,42.71
+2026-06-02,Soybean,Gujarat,42.28
+2026-06-02,Soybean,Uttar Pradesh,40.12
+2026-06-02,Soybean,Madhya Pradesh,39.17
+2026-06-03,Wheat,Maharashtra,23.97
+2026-06-03,Wheat,Punjab,23.81
+2026-06-03,Wheat,Gujarat,23.77
+2026-06-03,Wheat,Uttar Pradesh,22.97
+2026-06-03,Wheat,Madhya Pradesh,22.42
+2026-06-03,Rice,Maharashtra,71.67
+2026-06-03,Rice,Punjab,69.49
+2026-06-03,Rice,Gujarat,69.5
+2026-06-03,Rice,Uttar Pradesh,66.18
+2026-06-03,Rice,Madhya Pradesh,64.21
+2026-06-03,Tomato,Maharashtra,16.29
+2026-06-03,Tomato,Punjab,16.16
+2026-06-03,Tomato,Gujarat,16.18
+2026-06-03,Tomato,Uttar Pradesh,15.18
+2026-06-03,Tomato,Madhya Pradesh,14.57
+2026-06-03,Potato,Maharashtra,16.77
+2026-06-03,Potato,Punjab,15.73
+2026-06-03,Potato,Gujarat,15.9
+2026-06-03,Potato,Uttar Pradesh,15.54
+2026-06-03,Potato,Madhya Pradesh,15.02
+2026-06-03,Cotton,Maharashtra,68.02
+2026-06-03,Cotton,Punjab,66.13
+2026-06-03,Cotton,Gujarat,66.69
+2026-06-03,Cotton,Uttar Pradesh,63.04
+2026-06-03,Cotton,Madhya Pradesh,61.15
+2026-06-03,Soybean,Maharashtra,43.55
+2026-06-03,Soybean,Punjab,41.97
+2026-06-03,Soybean,Gujarat,43.14
+2026-06-03,Soybean,Uttar Pradesh,40.39
+2026-06-03,Soybean,Madhya Pradesh,39.14
+2026-06-04,Wheat,Maharashtra,24.05
+2026-06-04,Wheat,Punjab,23.85
+2026-06-04,Wheat,Gujarat,23.69
+2026-06-04,Wheat,Uttar Pradesh,22.57
+2026-06-04,Wheat,Madhya Pradesh,22.45
+2026-06-04,Rice,Maharashtra,71.64
+2026-06-04,Rice,Punjab,69.08
+2026-06-04,Rice,Gujarat,69.61
+2026-06-04,Rice,Uttar Pradesh,66.77
+2026-06-04,Rice,Madhya Pradesh,64.43
+2026-06-04,Tomato,Maharashtra,16.9
+2026-06-04,Tomato,Punjab,16.27
+2026-06-04,Tomato,Gujarat,16.56
+2026-06-04,Tomato,Uttar Pradesh,15.63
+2026-06-04,Tomato,Madhya Pradesh,14.65
+2026-06-04,Potato,Maharashtra,16.16
+2026-06-04,Potato,Punjab,16.12
+2026-06-04,Potato,Gujarat,15.9
+2026-06-04,Potato,Uttar Pradesh,15.22
+2026-06-04,Potato,Madhya Pradesh,14.57
+2026-06-04,Cotton,Maharashtra,67.94
+2026-06-04,Cotton,Punjab,65.72
+2026-06-04,Cotton,Gujarat,66.7
+2026-06-04,Cotton,Uttar Pradesh,63.86
+2026-06-04,Cotton,Madhya Pradesh,61.68
+2026-06-04,Soybean,Maharashtra,43.12
+2026-06-04,Soybean,Punjab,42.35
+2026-06-04,Soybean,Gujarat,42.74
+2026-06-04,Soybean,Uttar Pradesh,40.32
+2026-06-04,Soybean,Madhya Pradesh,39.51
