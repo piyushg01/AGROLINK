@@ -70,7 +70,7 @@ const NegotiationChat = () => {
 
     // Connect to backend socket server
     const socket = io(import.meta.env.VITE_BACKEND_URL, {
-      transports: ['polling', 'websocket'],
+      transports: ['websocket'],
       secure: true
     });
     socketRef.current = socket;
