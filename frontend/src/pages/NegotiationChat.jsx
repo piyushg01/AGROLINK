@@ -70,10 +70,20 @@ const NegotiationChat = () => {
 
     // Connect to backend socket server
     const socket = io(import.meta.env.VITE_BACKEND_URL, {
-      transports: ['websocket'],
-      secure: true
-    });
+        transports: ['websocket', 'polling'],
+        reconnection: true,
+        reconnectionAttempts: 10,
+        reconnectionDelay: 1000
+      });
     socketRef.current = socket;
+
+      socket.on('connect', () => {
+  console.log('Socket Connected:', socket.id);
+});
+
+socket.on('disconnect', (reason) => {
+  console.log('Socket Disconnected:', reason);
+});
 
     socket.on('connect_error', (err) => {
       console.error('Socket.IO connection error:', err);
