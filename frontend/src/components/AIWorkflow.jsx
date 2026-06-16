@@ -2,6 +2,7 @@ import React from 'react';
 import { CheckCircle2, Loader2, PlayCircle, HelpCircle } from 'lucide-react';
 import { useLanguage } from '../context/LanguageContext';
 
+
 const AIWorkflow = ({ activeStep, status }) => {
   const { t } = useLanguage();
 

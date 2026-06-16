@@ -193,7 +193,7 @@ const PricePrediction = () => {
   const fetchPredictionHistory = async () => {
     if (!token) return;
     try {
-      const response = await fetch('http://localhost:8000/api/price-prediction/history', {
+      const response = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/price-prediction/history`, {
         headers: {
           'Authorization': `Bearer ${token}`
         }
@@ -217,7 +217,7 @@ const PricePrediction = () => {
     setPredictionResult(null);
 
     try {
-      const response = await fetch('http://localhost:8000/api/price-prediction/predict', {
+      const response = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/price-prediction/predict`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -327,7 +327,7 @@ const PricePrediction = () => {
   const handleSavePrediction = async () => {
     if (!predictionResult || !token) return;
     try {
-      const response = await fetch('http://localhost:8000/api/price-prediction/save', {
+      const response = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/price-prediction/save`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -358,7 +358,7 @@ const PricePrediction = () => {
   const handleDeleteHistory = async (id) => {
     if (!token) return;
     try {
-      const response = await fetch(`http://localhost:8000/api/price-prediction/history/${id}`, {
+      const response = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/price-prediction/history/${id}`, {
         method: 'DELETE',
         headers: {
           'Authorization': `Bearer ${token}`

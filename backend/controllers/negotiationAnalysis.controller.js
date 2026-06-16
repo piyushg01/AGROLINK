@@ -1,5 +1,8 @@
 import NegotiationAnalysis from '../models/negotiationAnalysis.model.js';
 
+const AI_SERVICE_URL = process.env.AI_SERVICE_URL || 'https://agrolink-ai-g2z6.onrender.com';
+
+
 /**
  * Fetch analysis for a dealer offer from the Flask microservice
  */
@@ -15,7 +18,7 @@ export const analyzeOffer = async (req, res) => {
     }
 
     // Call Python AI microservice
-    const response = await fetch('http://localhost:5000/api/ai/analyze-negotiation', {
+    const response = await fetch(`${AI_SERVICE_URL}/api/ai/analyze-negotiation`, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'

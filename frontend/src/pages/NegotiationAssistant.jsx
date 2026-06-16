@@ -56,7 +56,7 @@ const NegotiationAssistant = () => {
   const fetchAnalysisHistory = async () => {
     if (!token) return;
     try {
-      const response = await fetch('http://localhost:8000/api/negotiation-assistant/history', {
+      const response = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/negotiation-assistant/history`, {
         headers: {
           'Authorization': `Bearer ${token}`
         }
@@ -80,7 +80,7 @@ const NegotiationAssistant = () => {
     setAnalysisResult(null);
 
     try {
-      const response = await fetch('http://localhost:8000/api/negotiation-assistant/analyze', {
+      const response = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/negotiation-assistant/analyze`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -168,7 +168,7 @@ const NegotiationAssistant = () => {
   const handleSaveAnalysis = async () => {
     if (!analysisResult || !token) return;
     try {
-      const response = await fetch('http://localhost:8000/api/negotiation-assistant/save', {
+      const response = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/negotiation-assistant/save`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -192,7 +192,7 @@ const NegotiationAssistant = () => {
   const handleDeleteHistory = async (id) => {
     if (!token) return;
     try {
-      const response = await fetch(`http://localhost:8000/api/negotiation-assistant/history/${id}`, {
+      const response = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/negotiation-assistant/history/${id}`, {
         method: 'DELETE',
         headers: {
           'Authorization': `Bearer ${token}`

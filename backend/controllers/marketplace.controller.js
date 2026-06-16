@@ -4,6 +4,8 @@ import Product from '../models/product.model.js';
 import Order from '../models/order.model.js';
 import Chat from '../models/chat.model.js';
 
+const AI_SERVICE_URL = process.env.AI_SERVICE_URL || 'https://agrolink-ai-g2z6.onrender.com';
+
 // --- FARMER PRODUCE LISTINGS CONTROLLERS ---
 
 export const uploadProduce = async (req, res) => {
@@ -74,7 +76,7 @@ export const analyzeProduceListing = async (req, res) => {
       const blob = new Blob([buffer], { type: mimetype });
       formData.append('image', blob, originalname);
 
-      const response = await fetch('http://localhost:5000/api/crop-analyze-listing', {
+      const response = await fetch(`${AI_SERVICE_URL}/api/crop-analyze-listing`, {
         method: 'POST',
         body: formData,
       });

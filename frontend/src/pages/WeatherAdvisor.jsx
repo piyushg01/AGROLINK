@@ -194,7 +194,7 @@ const WeatherAdvisor = () => {
   const fetchWeatherLogs = async () => {
     if (!token) return;
     try {
-      const response = await fetch('http://localhost:8000/api/weather/history', {
+      const response = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/weather/history`, {
         headers: { 'Authorization': `Bearer ${token}` }
       });
       const data = await response.json();
@@ -231,7 +231,7 @@ const WeatherAdvisor = () => {
     const runCheck = async (coords = null) => {
       try {
         const bodyData = coords ? { latitude: coords.latitude, longitude: coords.longitude } : {};
-        const response = await fetch('http://localhost:8000/api/weather/check', {
+        const response = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/weather/check`, {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json',
@@ -278,7 +278,7 @@ const WeatherAdvisor = () => {
   // Delete a history log entry
   const handleDeleteLog = async (id) => {
     try {
-      const response = await fetch(`http://localhost:8000/api/weather/history/${id}`, {
+      const response = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/weather/history/${id}`, {
         method: 'DELETE',
         headers: { 'Authorization': `Bearer ${token}` }
       });

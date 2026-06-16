@@ -36,7 +36,7 @@ const BuyerMatching = () => {
   const fetchMatchingHistory = async () => {
     if (!token) return;
     try {
-      const response = await fetch('http://localhost:8000/api/smart-match/history', {
+      const response = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/smart-match/history`, {
         headers: {
           'Authorization': `Bearer ${token}`
         }
@@ -60,7 +60,7 @@ const BuyerMatching = () => {
     setMatchingResult(null);
 
     try {
-      const response = await fetch('http://localhost:8000/api/smart-match/match', {
+      const response = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/smart-match/match`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -156,7 +156,7 @@ const BuyerMatching = () => {
   const handleSaveSnapshot = async () => {
     if (!matchingResult || !token) return;
     try {
-      const response = await fetch('http://localhost:8000/api/smart-match/save', {
+      const response = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/smart-match/save`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -180,7 +180,7 @@ const BuyerMatching = () => {
   const handleDeleteHistory = async (id) => {
     if (!token) return;
     try {
-      const response = await fetch(`http://localhost:8000/api/smart-match/history/${id}`, {
+      const response = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/smart-match/history/${id}`, {
         method: 'DELETE',
         headers: {
           'Authorization': `Bearer ${token}`

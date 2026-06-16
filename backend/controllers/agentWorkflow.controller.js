@@ -1,6 +1,8 @@
 import AgentWorkflow from '../models/agentWorkflow.model.js';
 import User from '../models/user.model.js';
 
+const AI_SERVICE_URL = process.env.AI_SERVICE_URL || 'https://agrolink-ai-g2z6.onrender.com';
+
 // Haversine formula to compute distance in km
 function calculateHaversineDistance(lon1, lat1, lon2, lat2) {
   const R = 6371; // Radius of Earth in km
@@ -102,7 +104,7 @@ export const triggerAgentWorkflow = async (req, res) => {
       formData.append('image', blob, 'leaf.png');
 
       workflow.agents.disease.logs.push('[Disease Agent] Contacting computer vision REST microservice for color ratio analysis...');
-      const response = await fetch('http://localhost:5000/api/disease-detect', {
+      const response = await fetch(`${AI_SERVICE_URL}/api/disease-detect`, {
         method: 'POST',
         body: formData,
       });
@@ -192,7 +194,7 @@ export const triggerAgentWorkflow = async (req, res) => {
     let marketResult = null;
     try {
       workflow.agents.market.logs.push('[Market Agent] Relaying metrics to Ridge Regression forecast engine...');
-      const response = await fetch('http://localhost:5000/api/crop-price-forecast', {
+      const response = await fetch(`${AI_SERVICE_URL}/api/crop-price-forecast`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
@@ -247,7 +249,7 @@ export const triggerAgentWorkflow = async (req, res) => {
 
       try {
         workflow.agents.buyer.logs.push('[Buyer Agent] Sending dealer profiles to buyer matching scoring engine...');
-        const response = await fetch('http://localhost:5000/api/ai/match-buyers', {
+        const response = await fetch(`${AI_SERVICE_URL}/api/ai/match-buyers`, {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({
@@ -360,7 +362,7 @@ export const triggerAgentWorkflow = async (req, res) => {
 
     let logisticsResult = null;
     try {
-      const response = await fetch('http://localhost:5000/api/ai/agent-logistics', {
+      const response = await fetch(`${AI_SERVICE_URL}/api/ai/agent-logistics`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
@@ -425,7 +427,7 @@ export const triggerAgentWorkflow = async (req, res) => {
     workflow.progress = 95;
     let finalReportText = "";
     try {
-      const response = await fetch('http://localhost:5000/api/ai/agent-report', {
+      const response = await fetch(`${AI_SERVICE_URL}/api/ai/agent-report`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({

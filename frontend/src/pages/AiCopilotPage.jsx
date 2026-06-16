@@ -61,7 +61,7 @@ const AiCopilotPage = () => {
     if (!token) return;
     try {
       setIsLoading(true);
-      const response = await fetch('http://localhost:8000/api/ai/copilot/history', {
+      const response = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/ai/copilot/history`, {
         headers: {
           'Authorization': `Bearer ${token}`
         }
@@ -109,7 +109,7 @@ const AiCopilotPage = () => {
       const customGemini = localStorage.getItem('agrolink_custom_gemini_key') || '';
       const customOpenai = localStorage.getItem('agrolink_custom_openai_key') || '';
 
-      const response = await fetch('http://localhost:8000/api/ai/copilot/ask', {
+      const response = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/ai/copilot/ask`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -158,7 +158,7 @@ const AiCopilotPage = () => {
     if (!token) return;
     if (window.confirm(t('copilotClearBtn') + '?')) {
       try {
-        const response = await fetch('http://localhost:8000/api/ai/copilot/history', {
+        const response = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/ai/copilot/history`, {
           method: 'DELETE',
           headers: {
             'Authorization': `Bearer ${token}`

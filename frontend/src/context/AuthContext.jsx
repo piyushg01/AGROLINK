@@ -15,7 +15,7 @@ export const AuthProvider = ({ children }) => {
       if (token) {
         localStorage.setItem('agrolink_token', token);
         try {
-          const response = await fetch('http://localhost:8000/api/auth/profile', {
+          const response = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/auth/profile`, {
             headers: {
               'Authorization': `Bearer ${token}`,
             },
@@ -44,7 +44,7 @@ export const AuthProvider = ({ children }) => {
   // Login handler
   const login = async (email, password) => {
     try {
-      const response = await fetch('http://localhost:8000/api/auth/login', {
+      const response = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/auth/login`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -67,7 +67,7 @@ export const AuthProvider = ({ children }) => {
   // Register handler
   const register = async (userData) => {
     try {
-      const response = await fetch('http://localhost:8000/api/auth/register', {
+      const response = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/auth/register`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

@@ -1,6 +1,8 @@
 import User from '../models/user.model.js';
 import AIReport from '../models/AIReport.js';
 
+const AI_SERVICE_URL = process.env.AI_SERVICE_URL || 'https://agrolink-ai-g2z6.onrender.com';
+
 // Haversine formula to compute distance in km
 function calculateHaversineDistance(lon1, lat1, lon2, lat2) {
   const R = 6371; // Radius of Earth in km
@@ -80,7 +82,7 @@ class AiCommandService {
       const blob = new Blob([buffer], { type: mimetype });
       formData.append('image', blob, 'leaf.png');
 
-      const response = await fetch('http://localhost:5000/api/disease-detect', {
+      const response = await fetch(`${AI_SERVICE_URL}/api/disease-detect`, {
         method: 'POST',
         body: formData,
       });
@@ -141,7 +143,7 @@ class AiCommandService {
     // 3. Step 2: Market Intelligence Price Forecasting
     let marketResult = null;
     try {
-      const response = await fetch('http://localhost:5000/api/crop-price-forecast', {
+      const response = await fetch(`${AI_SERVICE_URL}/api/crop-price-forecast`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({

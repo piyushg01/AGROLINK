@@ -1,5 +1,8 @@
 import PricePrediction from '../models/pricePrediction.model.js';
 
+const AI_SERVICE_URL = process.env.AI_SERVICE_URL || 'https://agrolink-ai-g2z6.onrender.com';
+
+
 /**
  * Fetch ML predictions from Flask service
  */
@@ -15,7 +18,7 @@ export const predictCropPrice = async (req, res) => {
     }
 
     // Call Python AI microservice
-    const response = await fetch('http://localhost:5000/api/crop-price-forecast', {
+    const response = await fetch(`${AI_SERVICE_URL}/api/crop-price-forecast`, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'

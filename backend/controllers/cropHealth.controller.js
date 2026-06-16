@@ -3,6 +3,8 @@ import User from '../models/user.model.js';
 import Product from '../models/product.model.js';
 import Order from '../models/order.model.js';
 
+const AI_SERVICE_URL = process.env.AI_SERVICE_URL || 'https://agrolink-ai-g2z6.onrender.com';
+
 // Haversine formula to compute distance in km
 function getDistance(coords1, coords2) {
   if (!coords1 || !coords2) return 0;
@@ -58,7 +60,7 @@ export const diagnoseCropHealth = async (req, res) => {
       const blob = new Blob([buffer], { type: mimetype });
       formData.append('image', blob, originalname);
 
-      const response = await fetch('http://localhost:5000/api/disease-detect', {
+      const response = await fetch(`${AI_SERVICE_URL}/api/disease-detect`, {
         method: 'POST',
         body: formData,
       });

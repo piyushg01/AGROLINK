@@ -28,7 +28,7 @@ const NegotiationChat = () => {
   // Fetch all orders
   const fetchMyOrders = async () => {
     try {
-      const response = await fetch('http://localhost:8000/api/marketplace/orders/mine', {
+      const response = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/marketplace/orders/mine`, {
         headers: { 'Authorization': `Bearer ${token}` }
       });
       const data = await response.json();
@@ -46,7 +46,7 @@ const NegotiationChat = () => {
   // Fetch chat history for selected order
   const loadOrderDetails = async (orderId) => {
     try {
-      const response = await fetch(`http://localhost:8000/api/marketplace/orders/${orderId}`, {
+      const response = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/marketplace/orders/${orderId}`, {
         headers: { 'Authorization': `Bearer ${token}` }
       });
       const data = await response.json();
@@ -69,7 +69,7 @@ const NegotiationChat = () => {
     }
 
     // Connect to backend socket server
-    const socket = io('http://localhost:8000');
+    const socket = io(import.meta.env.VITE_BACKEND_URL);
     socketRef.current = socket;
 
     socket.emit('join_room', { orderId });
@@ -121,7 +121,7 @@ const NegotiationChat = () => {
       const timelineDays = 8; // standard assumed logistics window
 
       try {
-        const response = await fetch('http://localhost:5000/api/ai/analyze-contract', {
+        const response = await fetch(`${import.meta.env.VITE_AI_URL}/api/ai/analyze-contract`, {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({

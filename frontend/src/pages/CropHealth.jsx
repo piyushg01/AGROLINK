@@ -209,7 +209,7 @@ const CropHealth = () => {
   const fetchHistory = async () => {
     if (!token) return;
     try {
-      const response = await fetch('http://localhost:8000/api/crop-health/history', {
+      const response = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/crop-health/history`, {
         headers: {
           'Authorization': `Bearer ${token}`
         }
@@ -373,7 +373,7 @@ const CropHealth = () => {
       const base64Image = reader.result;
 
       try {
-        const response = await fetch('http://localhost:8000/api/crop-health/diagnose', {
+        const response = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/crop-health/diagnose`, {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json',
@@ -443,7 +443,7 @@ const CropHealth = () => {
     if (!window.confirm('Delete this diagnostic record from your logs?')) return;
 
     try {
-      const response = await fetch(`http://localhost:8000/api/crop-health/history/${id}`, {
+      const response = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/crop-health/history/${id}`, {
         method: 'DELETE',
         headers: {
           'Authorization': `Bearer ${token}`
@@ -482,7 +482,7 @@ const CropHealth = () => {
     setOrderSuccess(null);
 
     try {
-      const response = await fetch('http://localhost:8000/api/crop-health/buy', {
+      const response = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/crop-health/buy`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

@@ -52,13 +52,13 @@ const Marketplace = () => {
   // Fetch produce and products
   const fetchMarketplaceData = async () => {
     try {
-      const prodRes = await fetch(`http://localhost:8000/api/marketplace/produce/all?category=${categoryFilter}&search=${searchQuery}`, {
+      const prodRes = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/marketplace/produce/all?category=${categoryFilter}&search=${searchQuery}`, {
         headers: { 'Authorization': `Bearer ${token}` }
       });
       const prodData = await prodRes.json();
       if (prodData.success) setProduceList(prodData.produce);
 
-      const itemsRes = await fetch(`http://localhost:8000/api/marketplace/products/all?category=${categoryFilter}&search=${searchQuery}`, {
+      const itemsRes = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/marketplace/products/all?category=${categoryFilter}&search=${searchQuery}`, {
         headers: { 'Authorization': `Bearer ${token}` }
       });
       const itemsData = await itemsRes.json();
@@ -71,7 +71,7 @@ const Marketplace = () => {
   // Fetch nearby shopkeepers via geolocation
   const fetchNearbyShops = async () => {
     try {
-      const res = await fetch('http://localhost:8000/api/marketplace/nearby-shopkeepers', {
+      const res = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/marketplace/nearby-shopkeepers`, {
         headers: { 'Authorization': `Bearer ${token}` }
       });
       const data = await res.json();
@@ -104,7 +104,7 @@ const Marketplace = () => {
     setIsAnalyzingListing(true);
     setAiError('');
     try {
-      const response = await fetch('http://localhost:8000/api/marketplace/produce/analyze-listing', {
+      const response = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/marketplace/produce/analyze-listing`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -149,7 +149,7 @@ const Marketplace = () => {
   const handleUploadProduce = async (e) => {
     e.preventDefault();
     try {
-      const response = await fetch('http://localhost:8000/api/marketplace/produce', {
+      const response = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/marketplace/produce`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -194,7 +194,7 @@ const Marketplace = () => {
   const handleUploadProduct = async (e) => {
     e.preventDefault();
     try {
-      const response = await fetch('http://localhost:8000/api/marketplace/products', {
+      const response = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/marketplace/products`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -234,7 +234,7 @@ const Marketplace = () => {
         initialOfferPrice = parseFloat(bidStr);
       }
 
-      const response = await fetch('http://localhost:8000/api/marketplace/orders', {
+      const response = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/marketplace/orders`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

@@ -117,7 +117,7 @@ const AiHub = () => {
       const formData = new FormData();
       formData.append('image', file);
 
-      const apiResponse = await fetch('http://localhost:5000/api/disease-detect', {
+      const apiResponse = await fetch(`${import.meta.env.VITE_AI_URL}/api/disease-detect`, {
         method: 'POST',
         body: formData,
       });
@@ -165,7 +165,7 @@ const AiHub = () => {
     formData.append('image', file);
 
     try {
-      const response = await fetch('http://localhost:5000/api/disease-detect', {
+      const response = await fetch(`${import.meta.env.VITE_AI_URL}/api/disease-detect`, {
         method: 'POST',
         body: formData,
       });
@@ -278,7 +278,7 @@ const AiHub = () => {
     setPriceResult(null);
 
     try {
-      const response = await fetch('http://localhost:5000/api/price-predict', {
+      const response = await fetch(`${import.meta.env.VITE_AI_URL}/api/price-predict`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ crop, state }),
@@ -363,7 +363,7 @@ const AiHub = () => {
     setSoilResult(null);
 
     try {
-      const response = await fetch('http://localhost:5000/api/fertilizer-recommend', {
+      const response = await fetch(`${import.meta.env.VITE_AI_URL}/api/fertilizer-recommend`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({

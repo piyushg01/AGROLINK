@@ -45,7 +45,7 @@ const AICommandCenter = () => {
     if (!token) return;
 
     try {
-      const response = await fetch('http://localhost:8000/api/ai-command/history', {
+      const response = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/ai-command/history`, {
         headers: {
           'Authorization': `Bearer ${token}`
         }
@@ -122,7 +122,7 @@ const AICommandCenter = () => {
 
     const token = localStorage.getItem('agrolink_token');
     try {
-      const response = await fetch('http://localhost:8000/api/ai-command/generate', {
+      const response = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/ai-command/generate`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -168,7 +168,7 @@ const AICommandCenter = () => {
     e.stopPropagation();
     const token = localStorage.getItem('agrolink_token');
     try {
-      const response = await fetch(`http://localhost:8000/api/ai-command/history/${id}`, {
+      const response = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/ai-command/history/${id}`, {
         method: 'DELETE',
         headers: {
           'Authorization': `Bearer ${token}`

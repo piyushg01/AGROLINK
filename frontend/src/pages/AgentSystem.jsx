@@ -48,7 +48,7 @@ const AgentSystem = () => {
     const token = localStorage.getItem('agrolink_token');
     if (!token) return;
     try {
-      const response = await fetch('http://localhost:8000/api/agent-workflow/history', {
+      const response = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/agent-workflow/history`, {
         headers: {
           'Authorization': `Bearer ${token}`
         }
@@ -126,7 +126,7 @@ const AgentSystem = () => {
     const token = localStorage.getItem('agrolink_token');
     try {
       // API call to run the backend agents
-      const response = await fetch('http://localhost:8000/api/agent-workflow/run', {
+      const response = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/agent-workflow/run`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -220,7 +220,7 @@ const AgentSystem = () => {
     e.stopPropagation();
     const token = localStorage.getItem('agrolink_token');
     try {
-      const response = await fetch(`http://localhost:8000/api/agent-workflow/history/${id}`, {
+      const response = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/agent-workflow/history/${id}`, {
         method: 'DELETE',
         headers: {
           'Authorization': `Bearer ${token}`

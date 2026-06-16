@@ -180,7 +180,7 @@ const Dashboard = () => {
     const fetchSporeRisk = async () => {
       setSporeLoading(true);
       try {
-        const response = await fetch('http://localhost:5000/api/ai/outbreak-risk', {
+        const response = await fetch(`${import.meta.env.VITE_AI_URL}/api/ai/outbreak-risk`, {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({
@@ -247,7 +247,7 @@ const Dashboard = () => {
     setWeatherLoading(true);
     try {
       const bodyData = coords ? { latitude: coords.latitude, longitude: coords.longitude } : {};
-      const response = await fetch('http://localhost:8000/api/weather/check', {
+      const response = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/weather/check`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

@@ -1,6 +1,8 @@
 import User from '../models/user.model.js';
 import SmartMatch from '../models/smartMatch.model.js';
 
+const AI_SERVICE_URL = process.env.AI_SERVICE_URL || 'https://agrolink-ai-g2z6.onrender.com';
+
 /**
  * Execute AI Buyer Matching algorithm
  */
@@ -48,7 +50,7 @@ export const findMatches = async (req, res) => {
     }));
 
     // 4. Contact Python AI matching service
-    const response = await fetch('http://localhost:5000/api/ai/match-buyers', {
+    const response = await fetch(`${AI_SERVICE_URL}/api/ai/match-buyers`, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'

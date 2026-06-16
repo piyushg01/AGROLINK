@@ -1,6 +1,8 @@
 import User from '../models/user.model.js';
 import WeatherHistory from '../models/weatherHistory.model.js';
 
+const AI_SERVICE_URL = process.env.AI_SERVICE_URL || 'https://agrolink-ai-g2z6.onrender.com';
+
 // Resolve weather condition text based on metrics
 function determineCondition(currentData) {
   const rain = currentData.rain || currentData.precipitation || 0;
@@ -109,7 +111,7 @@ export const checkWeatherAdvisory = async (req, res) => {
     // 3. Request advisory from Flask AI microservice
     let advisory = null;
     try {
-      const flaskRes = await fetch('http://localhost:5000/api/ai/weather-advisory', {
+      const flaskRes = await fetch(`${AI_SERVICE_URL}/api/ai/weather-advisory`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
