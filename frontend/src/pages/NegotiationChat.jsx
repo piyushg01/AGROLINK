@@ -69,8 +69,15 @@ const NegotiationChat = () => {
     }
 
     // Connect to backend socket server
-    const socket = io(import.meta.env.VITE_BACKEND_URL);
+    const socket = io(import.meta.env.VITE_BACKEND_URL, {
+      transports: ['polling', 'websocket'],
+      secure: true
+    });
     socketRef.current = socket;
+
+    socket.on('connect_error', (err) => {
+      console.error('Socket.IO connection error:', err);
+    });
 
     socket.emit('join_room', { orderId });
 
