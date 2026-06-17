@@ -116,7 +116,18 @@ export const getProfile = async (req, res) => {
     if (!user) {
       return res.status(404).json({ success: false, message: 'User not found' });
     }
-    res.json({ success: true, user });
+    res.json({
+      success: true,
+      user: {
+        id: user._id,
+        name: user.name,
+        email: user.email,
+        role: user.role,
+        phone: user.phone,
+        address: user.address,
+        location: user.location.coordinates,
+      },
+    });
   } catch (error) {
     console.error('Profile fetching error:', error);
     res.status(500).json({ success: false, message: 'Server profile fetch error', error: error.message });

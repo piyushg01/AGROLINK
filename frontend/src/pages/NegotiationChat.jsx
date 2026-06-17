@@ -64,7 +64,9 @@ const NegotiationChat = () => {
 
   // Initialize Socket pipeline
   const initializeSocket = (orderId) => {
+    console.log('INITIALIZING SOCKET. Connecting to backend:', import.meta.env.VITE_BACKEND_URL);
     if (socketRef.current) {
+      console.log('Disconnecting existing socket first.');
       socketRef.current.disconnect();
     }
 
@@ -77,27 +79,30 @@ const NegotiationChat = () => {
       });
     socketRef.current = socket;
 
-      socket.on('connect', () => {
-  console.log('Socket Connected:', socket.id);
-});
-
-socket.on('disconnect', (reason) => {
-  console.log('Socket Disconnected:', reason);
-});
-
-    socket.on('connect_error', (err) => {
-      console.error('Socket.IO connection error:', err);
+    socket.on('connect', () => {
+      console.log('Socket Connected on frontend with ID:', socket.id);
     });
 
+    socket.on('disconnect', (reason) => {
+      console.log('Socket Disconnected on frontend. Reason:', reason);
+    });
+
+    socket.on('connect_error', (err) => {
+      console.error('Socket.IO connection error on frontend:', err);
+    });
+
+    console.log('Sending join_room event for orderId:', orderId);
     socket.emit('join_room', { orderId });
 
     // Listen for incoming messages
     socket.on('receive_message', (chatMessage) => {
+      console.log('Socket receive_message event triggered on frontend:', chatMessage);
       setMessages((prev) => [...prev, chatMessage]);
     });
 
     // Listen for live price negotiation changes
     socket.on('order_updated', (updatedFields) => {
+      console.log('Socket order_updated event triggered on frontend:', updatedFields);
       setSelectedOrder((prev) => {
         if (!prev) return null;
         return { ...prev, ...updatedFields };
@@ -218,14 +223,23 @@ socket.on('disconnect', (reason) => {
       ? selectedOrder.seller._id 
       : selectedOrder.buyer._id;
 
-    socketRef.current.emit('send_message', {
+    const payload = {
       orderId: selectedOrder._id,
       senderId: user.id,
       receiverId,
       message: inputText,
       isOffer: false
+    };
+
+    console.log("Sending message (payload value structure):", payload);
+    console.log("Payload structures check:", {
+      "selectedOrder._id": selectedOrder._id,
+      "user.id": user.id,
+      "receiverId": receiverId,
+      "senderId": user.id
     });
 
+    socketRef.current.emit('send_message', payload);
     setInputText('');
   };
 
@@ -238,15 +252,24 @@ socket.on('disconnect', (reason) => {
       ? selectedOrder.seller._id 
       : selectedOrder.buyer._id;
 
-    socketRef.current.emit('send_message', {
+    const payload = {
       orderId: selectedOrder._id,
       senderId: user.id,
       receiverId,
       message: `Placed a new negotiation bid offer: ₹${offerBid}/kg`,
       offerPrice: parseFloat(offerBid),
       isOffer: true
+    };
+
+    console.log("Sending offer message (payload value structure):", payload);
+    console.log("Payload structures check:", {
+      "selectedOrder._id": selectedOrder._id,
+      "user.id": user.id,
+      "receiverId": receiverId,
+      "senderId": user.id
     });
 
+    socketRef.current.emit('send_message', payload);
     setOfferBid('');
   };
 
@@ -254,19 +277,25 @@ socket.on('disconnect', (reason) => {
   const handleAcceptOffer = () => {
     if (!selectedOrder || !selectedOrder.negotiationPrice) return;
     
-    socketRef.current.emit('accept_offer', {
+    const payload = {
       orderId: selectedOrder._id,
       finalPrice: selectedOrder.negotiationPrice
-    });
+    };
+
+    console.log("Sending accept_offer:", payload);
+    socketRef.current.emit('accept_offer', payload);
   };
 
   // Handle rejecting price offer (Farmer only)
   const handleRejectOffer = () => {
     if (!selectedOrder) return;
     
-    socketRef.current.emit('reject_offer', {
+    const payload = {
       orderId: selectedOrder._id
-    });
+    };
+
+    console.log("Sending reject_offer:", payload);
+    socketRef.current.emit('reject_offer', payload);
   };
 
   return (
